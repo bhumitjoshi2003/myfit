@@ -1,0 +1,47 @@
+# Always use this file explicitly; never merge the development docker-compose.yml.
+name: myfit-prod
+services:
+  api:
+    platform: linux/amd64
+    image: ${MYFIT_IMAGE:?Set an immutable MyFit API image tag or digest}
+    restart: "on-failure:3"
+    ports:
+      - "127.0.0.1:18080:8080"
+    environment:
+      APP_ENV: production
+      APP_ORIGIN: https://myfit.edunexify.co.in
+      COOKIE_SECURE: "true"
+      AUTO_MIGRATE: "false"
+      API_ADDR: 0.0.0.0:8080
+      DATABASE_URL: ${DATABASE_URL:?Supply the dedicated Neon MyFit connection URL}
+      DB_MAX_CONNS: ${DB_MAX_CONNS:-4}
+      DB_MAX_IDLE_TIME: ${DB_MAX_IDLE_TIME:-5m}
+      DB_MAX_LIFETIME: ${DB_MAX_LIFETIME:-30m}
+      DB_CONNECT_TIMEOUT: ${DB_CONNECT_TIMEOUT:-10s}
+      GOMEMLIMIT: ${MYFIT_GOMEMLIMIT:-64MiB}
+      GOMAXPROCS: "1"
+    mem_limit: ${MYFIT_MEMORY_LIMIT:-96m}
+    # Equal to mem_limit disables extra swap for this container.
+    memswap_limit: ${MYFIT_MEMORY_LIMIT:-96m}
+    cpus: ${MYFIT_CPU_LIMIT:-0.50}
+    pids_limit: 64
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: ["no-new-privileges:true"]
+    init: false
+    stop_grace_period: 20s
+    logging:
+      driver: json-file
+      options:
+        max-size: "5m"
+        max-file: "2"
+    healthcheck:
+      test: ["CMD", "/app/myfit", "healthcheck"]
+      interval: 30s
+      timeout: 4s
+      start_period: 45s
+      retries: 3
+    networks: [myfit]
+networks:
+  myfit:
+    name: myfit-prod-network

@@ -1,0 +1,12 @@
+.env
+.run/
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+frontend/test-results/
+frontend/playwright-report/
+test-results/
+.DS_Store
+deploy/*.env
+deploy/artifacts/
+deploy/releases/

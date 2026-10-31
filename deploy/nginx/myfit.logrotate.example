@@ -1,0 +1,16 @@
+# Install ONLY if existing /etc/logrotate.d/nginx does not already cover these logs.
+# Never add a second rotation rule for the same files. Match host Nginx's existing
+# ownership, create mode and postrotate signal convention before using this file.
+/var/log/nginx/myfit.access.log /var/log/nginx/myfit.error.log {
+    daily
+    rotate 7
+    compress
+    delaycompress
+    missingok
+    notifempty
+    sharedscripts
+    postrotate
+        # Example for a standard Debian host; confirm the master pid path first.
+        if [ -s /run/nginx.pid ]; then kill -USR1 "$(cat /run/nginx.pid)"; fi
+    endscript
+}

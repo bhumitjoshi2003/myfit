@@ -1,0 +1,11 @@
+# OPTIONAL, only if a new HTTP-01 cert is needed. Never enable alongside the full
+# MyFit HTTP block. First check wildcard routing and certificate options.
+server {
+    listen 80;
+    server_name myfit.edunexify.co.in;
+    location ^~ /.well-known/acme-challenge/ {
+        root /var/www/myfit/acme;
+        try_files $uri =404;
+    }
+    location / { return 503; }
+}

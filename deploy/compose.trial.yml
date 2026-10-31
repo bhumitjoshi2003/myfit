@@ -1,0 +1,4 @@
+# Private trial only. Prevent automatic retries so a failed startup stays stopped.
+services:
+  api:
+    restart: "no"
