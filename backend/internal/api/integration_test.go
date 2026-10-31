@@ -71,7 +71,7 @@ func TestIntegrationAcceptance(t *testing.T) {
 	completeTestOnboarding(&a)
 	b.register("second@example.test")
 	completeTestOnboarding(&b)
-	foods := parse[[]domain.Food](t, a.req("GET", "/api/foods?q=banana", nil, 200))
+	foods := parse[[]domain.Food](t, a.req("GET", "/api/foods?q=Banana%2C%20raw", nil, 200))
 	if len(foods) != 1 {
 		t.Fatal("expected banana")
 	}

@@ -121,7 +121,7 @@ try:
   v=c.req('/api/register','POST',{'name':'MYFIT AMD64 SOAK '+stamp,'email':email,'password':password,'timezone':'Asia/Kolkata'});c.csrf=v['csrf']
  day=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d')
  a,b=clients
- foods=a.req('/api/foods?q=banana');food=foods[0];serving=next(s for s in food['servings'] if s['grams']==118)
+ foods=a.req('/api/foods?q=Banana%2C%20raw');food=foods[0];serving=next(s for s in food['servings'] if s['grams']==118)
  entry=a.req('/api/logs','POST',{'food_id':food['id'],'serving_id':serving['id'],'quantity':2,'day':day,'meal':'breakfast'})
  check(abs(entry['nutrition']['calories']-210.04)<.000001,'Nutrition check failed')
  entry=a.req('/api/logs/'+str(entry['id']),'PUT',{'quantity':1,'day':day,'meal':'breakfast','version':entry['version']})

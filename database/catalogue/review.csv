@@ -1,0 +1,198 @@
+food,category,basis,kcal,protein_g,carbohydrate_g,fat_g,fibre_g,estimated_servings
+"Mango, raw, edible flesh",Fruits,100 g edible portion,60.0,0.82,14.98,0.38,1.6,Grams: 1 g; 100 grams: 100 g; Cup diced (estimated g): 165 g
+"Orange, raw, peeled",Fruits,100 g edible portion,47.0,0.94,11.75,0.12,2.4,"Grams: 1 g; 100 grams: 100 g; Medium orange, edible portion (estimated g): 131 g"
+"Grapes, raw",Fruits,100 g edible portion,69.0,0.72,18.1,0.16,0.9,Grams: 1 g; 100 grams: 100 g; Cup (estimated g): 151 g
+"Papaya, raw, edible flesh",Fruits,100 g edible portion,43.0,0.47,10.82,0.26,1.7,Grams: 1 g; 100 grams: 100 g; Cup cubed (estimated g): 145 g
+"Guava, raw",Fruits,100 g edible portion,68.0,2.55,14.32,0.95,5.4,Grams: 1 g; 100 grams: 100 g; Small guava (estimated g): 55 g
+"Watermelon, raw, edible flesh",Fruits,100 g edible portion,30.0,0.61,7.55,0.15,0.4,Grams: 1 g; 100 grams: 100 g; Cup diced (estimated g): 152 g
+"Pomegranate arils, raw",Fruits,100 g edible portion,83.0,1.67,18.7,1.17,4.0,Grams: 1 g; 100 grams: 100 g; Half cup arils (estimated g): 87 g
+"Pineapple, raw, edible flesh",Fruits,100 g edible portion,50.0,0.54,13.12,0.12,1.4,Grams: 1 g; 100 grams: 100 g; Cup chunks (estimated g): 165 g
+"Pear, raw",Fruits,100 g edible portion,57.0,0.36,15.23,0.14,3.1,Grams: 1 g; 100 grams: 100 g; Medium pear (estimated g): 178 g
+"Peach, raw",Fruits,100 g edible portion,39.0,0.91,9.54,0.25,1.5,"Grams: 1 g; 100 grams: 100 g; Medium peach, edible portion (estimated g): 150 g"
+"Plum, raw",Fruits,100 g edible portion,46.0,0.7,11.42,0.28,1.4,"Grams: 1 g; 100 grams: 100 g; Medium plum, edible portion (estimated g): 66 g"
+"Kiwi, raw, peeled",Fruits,100 g edible portion,61.0,1.14,14.66,0.52,3.0,"Grams: 1 g; 100 grams: 100 g; Medium kiwi, edible portion (estimated g): 69 g"
+"Strawberries, raw",Fruits,100 g edible portion,32.0,0.67,7.68,0.3,2.0,Grams: 1 g; 100 grams: 100 g; Cup halves (estimated g): 152 g
+"Muskmelon / cantaloupe, raw",Fruits,100 g edible portion,34.0,0.84,8.16,0.19,0.9,Grams: 1 g; 100 grams: 100 g; Cup cubed (estimated g): 160 g
+"Chikoo / sapodilla, raw",Fruits,100 g edible portion,83.0,0.44,19.96,1.1,5.3,Grams: 1 g; 100 grams: 100 g; Cup pieces (estimated g): 170 g
+"Sitaphal / custard apple, raw, pulp",Fruits,100 g edible portion,94.0,2.06,23.64,0.29,4.4,"Grams: 1 g; 100 grams: 100 g; Pulp portion, no seeds (estimated g): 100 g"
+"Jackfruit, raw, edible bulbs",Fruits,100 g edible portion,95.0,1.72,23.25,0.64,1.5,Grams: 1 g; 100 grams: 100 g; Cup sliced bulbs (estimated g): 165 g
+"Litchi, raw, peeled and pitted",Fruits,100 g edible portion,66.0,0.83,16.53,0.44,1.3,Grams: 1 g; 100 grams: 100 g; Edible portion (estimated g): 100 g
+"Avocado, raw, flesh",Fruits,100 g edible portion,167.0,1.96,8.64,15.41,6.8,Grams: 1 g; 100 grams: 100 g; Flesh portion (estimated g): 50 g
+"Dates, deglet noor, dried, pitted",Fruits,100 g edible portion,282.0,2.45,75.03,0.39,8.0,Grams: 1 g; 100 grams: 100 g; Three small dates (estimated g): 21 g
+"Raisins, seedless",Fruits,100 g edible portion,299.0,3.07,79.18,0.46,3.7,Grams: 1 g; 100 grams: 100 g; Small handful (estimated g): 30 g
+"Figs, dried",Fruits,100 g edible portion,249.0,3.3,63.87,0.93,9.8,Grams: 1 g; 100 grams: 100 g; Small portion (estimated g): 25 g
+"Apricots, dried, sulphured",Fruits,100 g edible portion,241.0,3.39,62.64,0.51,7.3,Grams: 1 g; 100 grams: 100 g; Small handful (estimated g): 30 g
+"Lemon juice, raw",Fruits,100 g edible portion,22.0,0.35,6.9,0.24,0.3,Grams: 1 g; 100 grams: 100 g; Tablespoon (estimated g): 15 g
+"Lime, raw, edible portion",Fruits,100 g edible portion,30.0,0.7,10.54,0.2,2.8,"Grams: 1 g; 100 grams: 100 g; Medium lime, edible portion (estimated g): 67 g"
+"Broccoli, raw",Vegetables,100 g edible portion,34.0,2.82,6.64,0.37,2.6,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Cauliflower / gobhi, raw",Vegetables,100 g edible portion,25.0,1.92,4.97,0.28,2.0,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Beetroot, raw",Vegetables,100 g edible portion,43.0,1.61,9.56,0.17,2.8,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Cabbage, raw",Vegetables,100 g edible portion,25.0,1.28,5.8,0.1,2.5,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Brinjal / eggplant, raw",Vegetables,100 g edible portion,25.0,0.98,5.88,0.18,3.0,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Bhindi / okra, raw",Vegetables,100 g edible portion,33.0,1.93,7.45,0.19,3.2,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Lauki / bottle gourd, raw",Vegetables,100 g edible portion,14.0,0.62,3.39,0.02,0.5,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Sponge gourd / gilki / turai, raw",Vegetables,100 g edible portion,20.0,1.2,4.35,0.2,1.1,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Karela / bitter gourd, raw",Vegetables,100 g edible portion,17.0,1.0,3.7,0.17,2.8,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Pumpkin, raw",Vegetables,100 g edible portion,26.0,1.0,6.5,0.1,0.5,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Green beans, raw",Vegetables,100 g edible portion,31.0,1.83,6.97,0.22,2.7,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Green peas, boiled, drained",Vegetables,100 g edible portion,84.0,5.36,15.63,0.22,5.5,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Sweet corn, boiled, drained",Vegetables,100 g edible portion,96.0,3.41,20.98,1.5,2.4,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Capsicum / green bell pepper, raw",Vegetables,100 g edible portion,20.0,0.86,4.64,0.17,1.7,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Mushrooms, white, raw",Vegetables,100 g edible portion,22.0,3.09,3.26,0.34,1.0,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Radish / mooli, raw",Vegetables,100 g edible portion,16.0,0.68,3.4,0.1,1.6,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Sweet potato, boiled, without skin",Vegetables,100 g edible portion,76.0,1.37,17.72,0.14,2.5,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Arbi / taro, cooked without salt",Vegetables,100 g edible portion,142.0,0.52,34.6,0.11,5.1,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Zucchini, raw",Vegetables,100 g edible portion,17.0,1.21,3.11,0.32,1.0,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Garlic, raw",Vegetables,100 g edible portion,149.0,6.36,33.06,0.5,2.1,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Ginger, raw",Vegetables,100 g edible portion,80.0,1.82,17.77,0.75,2.0,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Coriander leaves / cilantro, raw",Vegetables,100 g edible portion,23.0,2.13,3.67,0.52,2.8,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Mint / pudina, fresh spearmint",Vegetables,100 g edible portion,44.0,3.29,8.41,0.73,6.8,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Drumstick / moringa leaves, raw",Vegetables,100 g edible portion,64.0,9.4,8.28,1.4,2.0,"Grams: 1 g; 100 grams: 100 g; Portion, edible weight (estimated): 100 g"
+"Walnuts, English, kernels",Nuts and seeds,100 g edible portion,654.0,15.23,13.71,65.21,6.7,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 28 g
+"Cashews, raw",Nuts and seeds,100 g edible portion,553.0,18.22,30.19,43.85,3.3,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 28 g
+"Peanuts, raw, shelled",Nuts and seeds,100 g edible portion,567.0,25.8,16.13,49.24,8.5,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 28 g
+"Peanuts, dry roasted, unsalted",Nuts and seeds,100 g edible portion,587.0,24.35,21.26,49.66,8.4,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 28 g
+"Pistachios, raw, shelled",Nuts and seeds,100 g edible portion,560.0,20.16,27.17,45.32,10.6,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 28 g
+"Chia seeds, dry",Nuts and seeds,100 g edible portion,486.0,16.54,42.12,30.74,34.4,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 12 g
+Flaxseeds / alsi,Nuts and seeds,100 g edible portion,534.0,18.29,28.88,42.16,27.3,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 10 g
+"Pumpkin seed kernels, dried",Nuts and seeds,100 g edible portion,559.0,30.23,10.71,49.05,6.0,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 28 g
+"Sunflower seed kernels, dried",Nuts and seeds,100 g edible portion,584.0,20.78,20.0,51.46,8.6,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 28 g
+"Sesame seeds / til, whole, dried",Nuts and seeds,100 g edible portion,573.0,17.73,23.45,49.67,11.8,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 9 g
+"Coconut, fresh flesh",Nuts and seeds,100 g edible portion,354.0,3.33,15.23,33.49,9.0,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 30 g
+"Coconut, desiccated, unsweetened",Nuts and seeds,100 g edible portion,660.0,6.88,23.65,64.53,16.3,Grams: 1 g; 100 grams: 100 g; Small portion (estimated): 10 g
+"Rice, brown, cooked",Rice and grains,100 g edible portion,123.0,2.74,25.58,0.97,1.6,Grams: 1 g; 100 grams: 100 g; Cup cooked (estimated): 195 g
+"Quinoa, cooked",Rice and grains,100 g edible portion,120.0,4.4,21.3,1.92,2.8,Grams: 1 g; 100 grams: 100 g; Cup cooked (estimated): 185 g
+"Bulgur, cooked (dalia proxy)",Rice and grains,100 g edible portion,83.0,3.08,18.58,0.24,4.5,Grams: 1 g; 100 grams: 100 g; Cup cooked (estimated): 182 g
+"Millet, generic, cooked",Rice and grains,100 g edible portion,119.0,3.51,23.67,1.0,1.3,Grams: 1 g; 100 grams: 100 g; Cup cooked (estimated): 174 g
+"Semolina / sooji / rava, dry",Rice and grains,100 g edible portion,360.0,12.68,72.83,1.05,3.9,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 40 g
+"Besan / chickpea flour, dry",Rice and grains,100 g edible portion,387.0,22.39,57.82,6.69,10.8,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Whole-wheat flour / atta, dry",Rice and grains,100 g edible portion,340.0,13.21,71.97,2.5,10.7,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Rice flour, white, dry",Rice and grains,100 g edible portion,366.0,5.95,80.13,1.42,2.4,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Sabudana / tapioca pearls, dry",Rice and grains,100 g edible portion,358.0,0.19,88.69,0.02,0.9,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Maida / wheat flour, refined, dry",Rice and grains,100 g edible portion,364.0,10.33,76.31,0.98,2.7,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Bread, white",Rice and grains,100 g edible portion,266.0,8.85,49.42,3.33,2.7,Grams: 1 g; 100 grams: 100 g; Slice (estimated): 25 g
+"Pasta, cooked, unenriched, plain",Rice and grains,100 g edible portion,158.0,5.8,30.86,0.93,1.8,Grams: 1 g; 100 grams: 100 g; Cup cooked (estimated): 140 g
+"Moong / mung beans, boiled",Protein,100 g edible portion,105.0,7.02,19.15,0.38,7.6,Grams: 1 g; 100 grams: 100 g; Bowl (estimated): 150 g
+"Urad / black gram, boiled, whole",Protein,100 g edible portion,105.0,7.54,18.34,0.55,6.4,Grams: 1 g; 100 grams: 100 g; Bowl (estimated): 150 g
+"Toor / pigeon peas, boiled",Protein,100 g edible portion,121.0,6.76,23.25,0.38,6.7,Grams: 1 g; 100 grams: 100 g; Bowl (estimated): 150 g
+"Rajma / red kidney beans, boiled",Protein,100 g edible portion,127.0,8.67,22.8,0.5,7.4,Grams: 1 g; 100 grams: 100 g; Bowl (estimated): 150 g
+"Lobia / black-eyed peas, boiled",Protein,100 g edible portion,116.0,7.73,20.76,0.53,6.5,Grams: 1 g; 100 grams: 100 g; Bowl (estimated): 150 g
+"Moong sprouts, raw",Protein,100 g edible portion,30.0,3.04,5.94,0.18,1.8,Grams: 1 g; 100 grams: 100 g; Cup (estimated): 100 g
+"Soybeans, mature, boiled",Protein,100 g edible portion,172.0,18.21,8.36,8.97,6.0,Grams: 1 g; 100 grams: 100 g; Bowl (estimated): 150 g
+"Tofu, firm, calcium-set",Protein,100 g edible portion,144.0,17.27,2.78,8.72,2.3,Grams: 1 g; 100 grams: 100 g; Portion (estimated): 100 g
+"Greek yogurt, plain, nonfat",Dairy,100 g edible portion,59.0,10.19,3.6,0.39,0.0,Grams: 1 g; 100 grams: 100 g; Bowl (estimated): 150 g
+"Milk, reduced-fat, 2%",Dairy,100 g edible portion,50.0,3.3,4.8,1.98,0.0,"Grams: 1 g; 100 grams: 100 g; Cup, weighed (estimated): 245 g"
+"Milk, skimmed / nonfat",Dairy,100 g edible portion,34.0,3.37,4.96,0.08,0.0,"Grams: 1 g; 100 grams: 100 g; Cup, weighed (estimated): 245 g"
+"Milk, buffalo",Dairy,100 g edible portion,97.0,3.75,5.18,6.89,0.0,"Grams: 1 g; 100 grams: 100 g; Cup, weighed (estimated): 245 g"
+Cheddar cheese,Dairy,100 g edible portion,404.0,22.87,3.09,33.31,0.0,Grams: 1 g; 100 grams: 100 g; Slice (estimated): 20 g
+"Mozzarella cheese, whole-milk",Dairy,100 g edible portion,300.0,22.17,2.19,22.35,0.0,Grams: 1 g; 100 grams: 100 g; Portion (estimated): 30 g
+"Butter, salted",Dairy,100 g edible portion,717.0,0.85,0.06,81.11,0.0,Grams: 1 g; 100 grams: 100 g; Teaspoon (estimated): 5 g
+Ghee / anhydrous butter oil,Dairy,100 g edible portion,876.0,0.28,0.0,99.48,0.0,Grams: 1 g; 100 grams: 100 g; Teaspoon (estimated): 5 g
+"Coconut milk, freshly expressed",Dairy alternatives,100 g edible portion,230.0,2.29,5.54,23.84,2.2,"Grams: 1 g; 100 grams: 100 g; Cup, weighed (estimated): 240 g"
+"Coconut water, fresh",Beverages,100 g edible portion,19.0,0.72,3.71,0.2,1.1,"Grams: 1 g; 100 grams: 100 g; Glass, weighed (estimated): 250 g"
+"Orange juice, raw",Beverages,100 g edible portion,45.0,0.7,10.4,0.2,0.2,"Grams: 1 g; 100 grams: 100 g; Glass, weighed (estimated): 250 g"
+"Tea, black, brewed, unsweetened",Beverages,100 g edible portion,1.0,0.0,0.3,0.0,0.0,"Grams: 1 g; 100 grams: 100 g; Cup, weighed (estimated): 240 g"
+"Tea, green, brewed, unsweetened",Beverages,100 g edible portion,1.0,0.22,0.0,0.0,0.0,"Grams: 1 g; 100 grams: 100 g; Cup, weighed (estimated): 240 g"
+"Coffee, brewed, black, unsweetened",Beverages,100 g edible portion,1.0,0.12,0.0,0.02,0.0,"Grams: 1 g; 100 grams: 100 g; Cup, weighed (estimated): 240 g"
+"Sugar, white, granulated",Sweets,100 g edible portion,387.0,0.0,99.98,0.0,0.0,Grams: 1 g; 100 grams: 100 g; Teaspoon (estimated): 4 g
+Honey,Sweets,100 g edible portion,304.0,0.3,82.4,0.0,0.2,Grams: 1 g; 100 grams: 100 g; Teaspoon (estimated): 7 g
+"Marie biscuits, generic reference",Snacks,100 g edible portion,406.0,7.05,70.54,10.58,3.5,Grams: 1 g; 100 grams: 100 g; Biscuit (estimated): 6 g
+"Popcorn, air-popped, plain",Snacks,100 g edible portion,387.0,12.94,77.78,4.54,14.5,Grams: 1 g; 100 grams: 100 g; Cup (estimated): 8 g
+"Fish, tilapia, cooked, dry heat",Protein,100 g edible portion,128.0,26.15,0.0,2.65,0.0,Grams: 1 g; 100 grams: 100 g; Edible fillet portion (estimated): 100 g
+"Fish, Atlantic mackerel, cooked, dry heat",Protein,100 g edible portion,262.0,23.85,0.0,17.81,0.0,Grams: 1 g; 100 grams: 100 g; Edible boneless portion (estimated): 100 g
+"Fish, sardines, canned in oil, drained, with bones",Protein,100 g edible portion,208.0,24.62,0.0,11.45,0.0,Grams: 1 g; 100 grams: 100 g; Drained portion (estimated): 90 g
+"Prawns / shrimp, cooked, moist heat",Protein,100 g edible portion,119.0,22.78,1.52,1.7,0.0,Grams: 1 g; 100 grams: 100 g; Edible shelled portion (estimated): 100 g
+"Chicken thigh, meat only, roasted",Protein,100 g edible portion,179.0,24.76,0.0,8.15,0.0,Grams: 1 g; 100 grams: 100 g; Boneless portion (estimated): 100 g
+"Bajra / pearl millet, dry",Rice and grains,100 g edible portion,348.0,10.96,73.27,5.43,11.49,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Jowar / sorghum, dry",Rice and grains,100 g edible portion,334.1,9.97,77.9,1.73,10.22,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Ragi / finger millet, dry",Rice and grains,100 g edible portion,320.7,7.16,78.0,1.92,11.18,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Poha / rice flakes, dry",Rice and grains,100 g edible portion,353.7,7.44,80.21,1.14,3.46,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Murmura / puffed rice, plain",Rice and grains,100 g edible portion,361.9,7.47,80.24,1.62,2.56,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Black gram / urad dal, dry, dehulled",Protein,100 g edible portion,324.1,23.06,62.93,1.69,11.93,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Green gram / moong dal, dry, dehulled",Protein,100 g edible portion,325.8,23.88,61.96,1.35,9.37,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 30 g
+"Soya / soy chunks, dry (Hilife label reference)",Protein,100 g edible portion,345.0,52,33,0.5,13,Grams: 1 g; 100 grams: 100 g; Dry portion (estimated): 25 g
+"Idli, steamed",South Indian,100 g edible portion,120.0,3.8,25.5,0.3,1.4,Grams: 1 g; 100 grams: 100 g; 1 idli (estimated): 40 g
+"Dosa, plain, with oil",South Indian,100 g edible portion,184.0,4.7,32.9,3.7,1.6,Grams: 1 g; 100 grams: 100 g; 1 dosa (estimated): 75 g
+"Masala dosa, potato filled",South Indian,100 g edible portion,142.0,2.9,23.8,4.1,1.6,Grams: 1 g; 100 grams: 100 g; 1 filled dosa (estimated): 200 g
+"Rava dosa, with oil",South Indian,100 g edible portion,189.0,4.3,29.9,5.5,1.4,Grams: 1 g; 100 grams: 100 g; 1 dosa (estimated): 80 g
+"Uttapam, onion and tomato",South Indian,100 g edible portion,145.0,3.7,25.7,3.2,1.6,Grams: 1 g; 100 grams: 100 g; 1 uttapam (estimated): 140 g
+"Medu vada, fried urad",South Indian,100 g edible portion,241.0,9.4,26.3,12.7,5.0,Grams: 1 g; 100 grams: 100 g; 1 vada (estimated): 50 g
+"Sambar, vegetable and toor dal",South Indian,100 g edible portion,65.0,2.5,10.6,1.7,2.8,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+Coconut chutney,South Indian,100 g edible portion,151.0,2.1,8.2,13.0,3.8,Grams: 1 g; 100 grams: 100 g; 1 tablespoon (estimated): 15 g
+"Ven pongal, rice and moong",South Indian,100 g edible portion,113.0,2.9,16.7,4.0,0.9,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+"Upma, rava with vegetables",South Indian,100 g edible portion,113.0,3.2,17.7,3.3,1.7,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+"Appam, rice and coconut",South Indian,100 g edible portion,142.0,2.2,22.3,4.9,0.8,Grams: 1 g; 100 grams: 100 g; 1 appam (estimated): 80 g
+"Pesarattu, whole moong dosa",South Indian,100 g edible portion,156.0,8.4,23.1,3.8,5.9,Grams: 1 g; 100 grams: 100 g; 1 pesarattu (estimated): 100 g
+"Ragi dosa, with oil",South Indian,100 g edible portion,135.0,2.5,24.2,3.9,2.5,Grams: 1 g; 100 grams: 100 g; 1 dosa (estimated): 100 g
+"Rava idli, steamed",South Indian,100 g edible portion,124.0,4.1,18.6,3.6,1.1,Grams: 1 g; 100 grams: 100 g; 1 idli (estimated): 50 g
+"Idiyappam / string hoppers, plain",South Indian,100 g edible portion,122.0,2.0,26.7,0.5,0.8,Grams: 1 g; 100 grams: 100 g; 1 nest (estimated): 60 g
+"Puttu, rice and coconut",South Indian,100 g edible portion,163.0,2.3,26.3,5.4,2.1,Grams: 1 g; 100 grams: 100 g; 1 portion (estimated): 100 g
+"Rasam, tomato and tamarind",South Indian,100 g edible portion,27.0,0.9,4.1,1.0,1.0,"Grams: 1 g; 100 grams: 100 g; 1 cup, weighed (estimated): 200 g"
+"Avial, mixed vegetables and coconut",South Indian,100 g edible portion,80.0,1.6,7.8,5.1,1.9,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+"Plain paratha, whole wheat with oil",North Indian,100 g edible portion,275.0,7.9,43.2,9.5,6.4,Grams: 1 g; 100 grams: 100 g; 1 paratha (estimated): 80 g
+Aloo paratha,North Indian,100 g edible portion,204.0,5.3,33.7,6.4,4.5,Grams: 1 g; 100 grams: 100 g; 1 paratha (estimated): 150 g
+Paneer paratha,North Indian,100 g edible portion,258.0,10.8,25.6,13.5,3.7,Grams: 1 g; 100 grams: 100 g; 1 paratha (estimated): 150 g
+Gobhi paratha,North Indian,100 g edible portion,177.0,5.6,28.5,5.8,4.8,Grams: 1 g; 100 grams: 100 g; 1 paratha (estimated): 140 g
+"Poori / puri, fried whole wheat",North Indian,100 g edible portion,352.0,9.0,49.1,15.3,7.3,Grams: 1 g; 100 grams: 100 g; 1 poori (estimated): 30 g
+"Chole, chickpea curry",North Indian,100 g edible portion,139.0,5.8,19.3,4.7,5.2,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+Rajma curry,North Indian,100 g edible portion,107.0,5.6,16.0,2.7,5.0,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+Dal makhani,North Indian,100 g edible portion,116.0,5.8,14.2,4.4,4.8,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+"Kadhi, yogurt and besan, no pakora",North Indian,100 g edible portion,82.0,3.4,7.4,4.3,1.0,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+Paneer bhurji,North Indian,100 g edible portion,210.0,10.9,3.9,17.2,0.6,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+Palak paneer,North Indian,100 g edible portion,141.0,7.5,4.2,11.0,1.4,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+Matar paneer,North Indian,100 g edible portion,142.0,7.3,6.2,10.0,1.7,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+Aloo gobhi,North Indian,100 g edible portion,89.0,1.9,13.4,3.5,2.0,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+Bhindi masala,North Indian,100 g edible portion,80.0,2.1,9.2,4.7,3.4,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+Baingan bharta,North Indian,100 g edible portion,68.0,1.2,7.6,4.2,3.2,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+"Dal tadka, lentil base",North Indian,100 g edible portion,108.0,6.5,15.7,2.6,5.8,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+"Moong dal tadka, whole-moong base",North Indian,100 g edible portion,99.0,5.1,14.7,2.6,5.6,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+"Chana masala, dry sundal style",Protein,100 g edible portion,186.0,8.1,25.4,6.4,7.3,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+Tofu bhurji,Protein,100 g edible portion,121.0,10.0,4.1,8.2,1.8,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+"Soya chunks curry, Hilife dry base",Protein,100 g edible portion,91.0,8.4,7.4,3.2,2.5,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+"Chicken curry, boneless cooked meat",Protein,100 g edible portion,134.0,17.5,2.9,5.5,0.5,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+"Egg curry, boiled eggs",Protein,100 g edible portion,109.0,6.2,2.9,8.0,0.5,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+"Fish curry, tilapia boneless base",Protein,100 g edible portion,118.0,12.8,3.2,6.5,0.9,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+"Omelette, onion and tomato",Protein,100 g edible portion,136.0,8.8,3.1,9.7,0.6,Grams: 1 g; 100 grams: 100 g; 1 two-egg omelette (estimated): 150 g
+Jeera rice,Rice and grains,100 g edible portion,152.0,2.7,26.9,3.5,0.5,"Grams: 1 g; 100 grams: 100 g; 1 cup, weighed (estimated): 180 g"
+Vegetable pulao,Rice and grains,100 g edible portion,127.0,2.5,21.8,3.1,1.4,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 200 g
+Vegetable biryani,Rice and grains,100 g edible portion,137.0,2.7,22.7,3.8,1.3,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 250 g
+"Chicken biryani, boneless",Rice and grains,100 g edible portion,152.0,9.7,17.2,4.5,0.4,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 250 g
+Lemon rice,Rice and grains,100 g edible portion,164.0,3.5,24.6,5.7,0.8,"Grams: 1 g; 100 grams: 100 g; 1 cup, weighed (estimated): 180 g"
+Curd rice,Rice and grains,100 g edible portion,110.0,2.9,17.2,3.1,0.2,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 200 g
+Tamarind rice / puliyogare,Rice and grains,100 g edible portion,168.0,3.4,25.3,6.1,1.0,"Grams: 1 g; 100 grams: 100 g; 1 cup, weighed (estimated): 180 g"
+"Khichdi, rice and whole moong",Rice and grains,100 g edible portion,92.0,2.8,15.6,2.1,1.7,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 200 g
+"Kanda poha, with peanuts",Rice and grains,100 g edible portion,136.0,2.8,22.2,4.5,1.4,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+Sabudana khichdi,Rice and grains,100 g edible portion,180.0,2.1,28.6,6.7,1.2,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 180 g
+"Oat porridge, milk, unsweetened",Rice and grains,100 g edible portion,83.0,3.9,10.8,2.8,1.3,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 200 g
+"Ragi roti, plain, no oil",Rice and grains,100 g edible portion,192.0,4.3,46.8,1.2,6.7,Grams: 1 g; 100 grams: 100 g; 1 roti (estimated): 60 g
+"Bajra roti, plain, no oil",Rice and grains,100 g edible portion,209.0,6.6,44.0,3.3,6.9,Grams: 1 g; 100 grams: 100 g; 1 roti (estimated): 60 g
+"Jowar roti, plain, no oil",Rice and grains,100 g edible portion,200.0,6.0,46.7,1.0,6.1,Grams: 1 g; 100 grams: 100 g; 1 roti (estimated): 60 g
+"Samosa, potato and peas",Snacks,100 g edible portion,279.0,4.9,36.4,12.6,2.4,Grams: 1 g; 100 grams: 100 g; 1 samosa (estimated): 90 g
+Onion pakora / bhaji,Snacks,100 g edible portion,236.0,7.3,22.0,13.3,4.1,Grams: 1 g; 100 grams: 100 g; 1 portion (estimated): 80 g
+"Dhokla, besan, steamed",Snacks,100 g edible portion,167.0,7.4,21.5,5.7,3.2,Grams: 1 g; 100 grams: 100 g; 1 piece (estimated): 50 g
+"Bhel puri, no sev",Snacks,100 g edible portion,136.0,3.2,26.4,2.6,1.8,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+"Pani puri, six puris with filling and water",Snacks,100 g edible portion,191.0,4.8,29.2,6.3,2.9,Grams: 1 g; 100 grams: 100 g; 6 filled puris plus pani (estimated): 180 g
+"Pav bhaji, including bread and butter",Snacks,100 g edible portion,135.0,3.2,19.0,5.4,2.2,Grams: 1 g; 100 grams: 100 g; 1 plate (estimated): 325 g
+"Vegetable sandwich, no mayonnaise",Snacks,100 g edible portion,158.0,4.3,26.2,4.1,1.9,Grams: 1 g; 100 grams: 100 g; 1 sandwich (estimated): 150 g
+"Cheese sandwich, buttered",Snacks,100 g edible portion,246.0,9.0,24.8,12.3,1.5,Grams: 1 g; 100 grams: 100 g; 1 sandwich (estimated): 150 g
+Besan chilla,Snacks,100 g edible portion,181.0,8.0,22.1,6.6,4.2,Grams: 1 g; 100 grams: 100 g; 1 chilla (estimated): 100 g
+"Moong sprouts chaat, raw sprouts",Snacks,100 g edible portion,26.0,1.8,5.7,0.2,1.3,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+"Aloo tikki, shallow fried",Snacks,100 g edible portion,167.0,2.5,22.8,7.6,1.9,Grams: 1 g; 100 grams: 100 g; 1 tikki (estimated): 70 g
+Dahi vada,Snacks,100 g edible portion,132.0,5.2,15.6,6.2,1.9,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 175 g
+"Lassi, sweet",Dairy,100 g edible portion,68.0,2.0,11.1,1.9,0.0,"Grams: 1 g; 100 grams: 100 g; 1 glass, weighed (estimated): 250 g"
+"Lassi, plain, unsweetened",Dairy,100 g edible portion,36.0,2.0,2.7,1.9,0.0,"Grams: 1 g; 100 grams: 100 g; 1 glass, weighed (estimated): 250 g"
+"Chaas / buttermilk, diluted curd",Dairy,100 g edible portion,21.0,1.2,1.6,1.1,0.0,"Grams: 1 g; 100 grams: 100 g; 1 glass, weighed (estimated): 250 g"
+Cucumber raita,Dairy,100 g edible portion,46.0,2.5,4.3,2.2,0.2,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+"Milk tea / chai, sweetened",Beverages and sweets,100 g edible portion,38.0,1.1,5.9,1.2,0.0,"Grams: 1 g; 100 grams: 100 g; 1 cup, weighed (estimated): 150 g"
+"Milk coffee, sweetened",Beverages and sweets,100 g edible portion,44.0,1.5,6.2,1.5,0.0,"Grams: 1 g; 100 grams: 100 g; 1 cup, weighed (estimated): 150 g"
+"Banana milkshake, no added sugar",Beverages and sweets,100 g edible portion,69.0,2.5,10.2,2.4,0.8,"Grams: 1 g; 100 grams: 100 g; 1 glass, weighed (estimated): 250 g"
+"Mango lassi, sweetened",Beverages and sweets,100 g edible portion,70.0,2.0,12.3,1.8,0.5,"Grams: 1 g; 100 grams: 100 g; 1 glass, weighed (estimated): 250 g"
+Banana and Greek yogurt protein smoothie,Beverages and sweets,100 g edible portion,54.0,4.6,8.9,0.2,0.6,"Grams: 1 g; 100 grams: 100 g; 1 glass, weighed (estimated): 250 g"
+"Protein shake, skim milk and soy isolate",Beverages and sweets,100 g edible portion,64.0,11.9,4.5,0.4,0.0,"Grams: 1 g; 100 grams: 100 g; 1 glass, weighed (estimated): 300 g"
+"Kheer, rice and milk",Beverages and sweets,100 g edible portion,145.0,4.0,23.7,4.0,0.3,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 150 g
+Sooji halwa / sheera,Beverages and sweets,100 g edible portion,271.0,3.1,35.5,13.5,0.9,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 100 g
+Gajar halwa,Beverages and sweets,100 g edible portion,174.0,2.6,22.6,8.8,2.2,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 100 g
+Besan laddoo,Beverages and sweets,100 g edible portion,508.0,10.7,55.1,28.1,4.8,Grams: 1 g; 100 grams: 100 g; 1 laddoo (estimated): 35 g
+Coconut laddoo,Beverages and sweets,100 g edible portion,330.0,2.5,38.8,20.0,4.5,Grams: 1 g; 100 grams: 100 g; 1 laddoo (estimated): 35 g
+"Til laddoo, sesame and sugar",Beverages and sweets,100 g edible portion,483.0,8.9,55.0,28.2,5.9,Grams: 1 g; 100 grams: 100 g; 1 laddoo (estimated): 30 g
+"Shrikhand, plain, Greek yogurt base",Beverages and sweets,100 g edible portion,164.0,7.9,29.7,2.0,0.1,Grams: 1 g; 100 grams: 100 g; 1 bowl (estimated): 100 g

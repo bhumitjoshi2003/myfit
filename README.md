@@ -97,3 +97,7 @@ npm run test:e2e                 # With the default frontend and API running
 ```
 
 Playwright runs the daily journey at desktop and mobile sizes, checks all five nutrients, edits two bananas to one, records weight, creates/favourites private food, changes goals, signs out/in and checks persistence, cookies, localStorage and horizontal overflow. Test accounts are recognizable as `myfit-e2e-…@example.test`; they are test-only records, never your own account. Browser screenshots and traces go in ignored test result directories. Browser coverage uses Chromium, including mobile emulation; Safari and Firefox have not been verified.
+
+## Expanded food catalogue (local preparation)
+
+Migration 006 adds 197 sourced shared foods and recipe estimates. See [catalogue provenance, serving units and local verification](database/catalogue/README.md). Production application requires separate approval and a schema-v6-compatible release.

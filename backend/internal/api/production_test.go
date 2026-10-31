@@ -25,7 +25,7 @@ func TestProductionCookiesAndReadOnlyStartup(t *testing.T) {
 		t.Fatal(e)
 	}
 	opened.Pool.Close()
-	if _, e = db.Pool.Exec(ctx, `DELETE FROM goose_db_version WHERE version_id=5`); e != nil {
+	if _, e = db.Pool.Exec(ctx, `DELETE FROM goose_db_version WHERE version_id=6`); e != nil {
 		t.Fatal(e)
 	}
 	if opened, e = store.OpenConfigured(ctx, c); e == nil {
@@ -33,10 +33,10 @@ func TestProductionCookiesAndReadOnlyStartup(t *testing.T) {
 		t.Fatal("outdated schema was accepted")
 	}
 	var v int64
-	if e = db.Pool.QueryRow(ctx, `SELECT max(version_id) FROM goose_db_version`).Scan(&v); e != nil || v != 4 {
+	if e = db.Pool.QueryRow(ctx, `SELECT max(version_id) FROM goose_db_version`).Scan(&v); e != nil || v != 5 {
 		t.Fatal("startup unexpectedly migrated database", e)
 	}
-	// The fixture is discarded after this test; the startup check left its version at 4.
+	// The fixture is discarded after this test; the startup check left its version at 5.
 
 }
 func TestSecureCookieAttributes(t *testing.T) {

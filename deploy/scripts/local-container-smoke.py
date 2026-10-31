@@ -50,7 +50,7 @@ def main():
             profile={'age':24,'sex':'male','height':167.64,'height_unit':'cm','weight':54.5,'weight_unit':'kg','units':'metric','timezone':'Asia/Kolkata','lifestyle':'sedentary','sessions':3.5,'minutes':60,'intensity':'moderate','training':'resistance','objective':'muscle','diet':'vegetarian','health_context':'healthy'}
             state,_=request('/api/onboarding/profile','PUT',{'version':0,'profile':profile},cookie,csrf)
             request('/api/onboarding/goals','POST',{'version':state['user']['onboarding_version'],'recommendation_id':state['recommendation']['id'],'mode':'recommendation'},cookie,csrf)
-            foods,_=request('/api/foods?q=banana',cookie=cookie);food=foods[0];serving=next(s for s in food['servings'] if s['grams']==118)
+            foods,_=request('/api/foods?q=Banana%2C%20raw',cookie=cookie);food=foods[0];serving=next(s for s in food['servings'] if s['grams']==118)
             entry,_=request('/api/logs','POST',{'food_id':food['id'],'serving_id':serving['id'],'quantity':2,'day':datetime.date.today().isoformat(),'meal':'breakfast'},cookie,csrf)
             assert abs(entry['nutrition']['calories']-210.04)<1e-6
             request('/api/weights','POST',{'day':datetime.date.today().isoformat(),'kg':54.5},cookie,csrf)

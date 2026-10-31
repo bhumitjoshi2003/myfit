@@ -142,7 +142,7 @@ func smoke(ctx context.Context, t target, dir, reports string) error {
 		return errors.New("onboarding data leaked across users")
 	}
 	var foods []domain.Food
-	if e = a.request("GET", "/api/foods?q=banana", nil, 200, &foods); e != nil {
+	if e = a.request("GET", "/api/foods?q=Banana%2C%20raw", nil, 200, &foods); e != nil {
 		return e
 	}
 	if len(foods) != 1 {

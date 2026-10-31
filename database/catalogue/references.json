@@ -1,0 +1,1856 @@
+{
+  "nutrient_order": [
+    "calories_kcal",
+    "protein_g",
+    "carbohydrate_g",
+    "fat_g",
+    "fibre_g"
+  ],
+  "basis": "per 100 g edible portion",
+  "archive_sha256": {
+    "usda_sr28": "39df5c0516a7d343ffb043bb5542ab8c29f2c9998c93608e7fd3feca82ce1cef",
+    "ifct2017": "7fc5a5112a57240d25bf695dca82cccd8d93ed54e8c39530e42b5ad1820d0e8c",
+    "hilife_catalogue": "e462809966f2401d6a24d61b641c68d901deeaddaffc467c7240e5354d33eebb"
+  },
+  "references": {
+    "USDA:09176": {
+      "description": "MANGOS,RAW",
+      "values": [
+        60.0,
+        0.82,
+        14.98,
+        0.38,
+        1.6
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09176; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09200": {
+      "description": "ORANGES,RAW,ALL COMM VAR",
+      "values": [
+        47.0,
+        0.94,
+        11.75,
+        0.12,
+        2.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09200; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09132": {
+      "description": "GRAPES,RED OR GRN (EURO TYPE,SUCH AS THOMPSON SEEDLESS),RAW",
+      "values": [
+        69.0,
+        0.72,
+        18.1,
+        0.16,
+        0.9
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09132; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09226": {
+      "description": "PAPAYAS,RAW",
+      "values": [
+        43.0,
+        0.47,
+        10.82,
+        0.26,
+        1.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09226; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09139": {
+      "description": "GUAVAS,COMMON,RAW",
+      "values": [
+        68.0,
+        2.55,
+        14.32,
+        0.95,
+        5.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09139; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09326": {
+      "description": "WATERMELON,RAW",
+      "values": [
+        30.0,
+        0.61,
+        7.55,
+        0.15,
+        0.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09326; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09286": {
+      "description": "POMEGRANATES,RAW",
+      "values": [
+        83.0,
+        1.67,
+        18.7,
+        1.17,
+        4.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09286; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09266": {
+      "description": "PINEAPPLE,RAW,ALL VAR",
+      "values": [
+        50.0,
+        0.54,
+        13.12,
+        0.12,
+        1.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09266; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09252": {
+      "description": "PEARS,RAW",
+      "values": [
+        57.0,
+        0.36,
+        15.23,
+        0.14,
+        3.1
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09252; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09236": {
+      "description": "PEACHES,YEL,RAW",
+      "values": [
+        39.0,
+        0.91,
+        9.54,
+        0.25,
+        1.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09236; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09279": {
+      "description": "PLUMS,RAW",
+      "values": [
+        46.0,
+        0.7,
+        11.42,
+        0.28,
+        1.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09279; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09148": {
+      "description": "KIWIFRUIT,GRN,RAW",
+      "values": [
+        61.0,
+        1.14,
+        14.66,
+        0.52,
+        3.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09148; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09316": {
+      "description": "STRAWBERRIES,RAW",
+      "values": [
+        32.0,
+        0.67,
+        7.68,
+        0.3,
+        2.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09316; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09181": {
+      "description": "MELONS,CANTALOUPE,RAW",
+      "values": [
+        34.0,
+        0.84,
+        8.16,
+        0.19,
+        0.9
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09181; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09313": {
+      "description": "SAPODILLA,RAW",
+      "values": [
+        83.0,
+        0.44,
+        19.96,
+        1.1,
+        5.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09313; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09321": {
+      "description": "SUGAR-APPLES,(SWEETSOP),RAW",
+      "values": [
+        94.0,
+        2.06,
+        23.64,
+        0.29,
+        4.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09321; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09144": {
+      "description": "JACKFRUIT,RAW",
+      "values": [
+        95.0,
+        1.72,
+        23.25,
+        0.64,
+        1.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09144; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09164": {
+      "description": "LITCHIS,RAW",
+      "values": [
+        66.0,
+        0.83,
+        16.53,
+        0.44,
+        1.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09164; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09038": {
+      "description": "AVOCADOS,RAW,CALIFORNIA",
+      "values": [
+        167.0,
+        1.96,
+        8.64,
+        15.41,
+        6.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09038; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09087": {
+      "description": "DATES,DEGLET NOOR",
+      "values": [
+        282.0,
+        2.45,
+        75.03,
+        0.39,
+        8.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09087; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09298": {
+      "description": "RAISINS,SEEDLESS",
+      "values": [
+        299.0,
+        3.07,
+        79.18,
+        0.46,
+        3.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09298; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09094": {
+      "description": "FIGS,DRIED,UNCOOKED",
+      "values": [
+        249.0,
+        3.3,
+        63.87,
+        0.93,
+        9.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09094; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09032": {
+      "description": "APRICOTS,DRIED,SULFURED,UNCKD",
+      "values": [
+        241.0,
+        3.39,
+        62.64,
+        0.51,
+        7.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09032; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09152": {
+      "description": "LEMON JUICE,RAW",
+      "values": [
+        22.0,
+        0.35,
+        6.9,
+        0.24,
+        0.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09152; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09159": {
+      "description": "LIMES,RAW",
+      "values": [
+        30.0,
+        0.7,
+        10.54,
+        0.2,
+        2.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09159; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11090": {
+      "description": "BROCCOLI,RAW",
+      "values": [
+        34.0,
+        2.82,
+        6.64,
+        0.37,
+        2.6
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11090; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11135": {
+      "description": "CAULIFLOWER,RAW",
+      "values": [
+        25.0,
+        1.92,
+        4.97,
+        0.28,
+        2.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11135; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11080": {
+      "description": "BEETS,RAW",
+      "values": [
+        43.0,
+        1.61,
+        9.56,
+        0.17,
+        2.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11080; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11109": {
+      "description": "CABBAGE,RAW",
+      "values": [
+        25.0,
+        1.28,
+        5.8,
+        0.1,
+        2.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11109; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11209": {
+      "description": "EGGPLANT,RAW",
+      "values": [
+        25.0,
+        0.98,
+        5.88,
+        0.18,
+        3.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11209; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11278": {
+      "description": "OKRA,RAW",
+      "values": [
+        33.0,
+        1.93,
+        7.45,
+        0.19,
+        3.2
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11278; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11218": {
+      "description": "GOURD,WHITE-FLOWERED (CALABASH),RAW",
+      "values": [
+        14.0,
+        0.62,
+        3.39,
+        0.02,
+        0.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11218; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11220": {
+      "description": "GOURD,DISHCLOTH (TOWELGOURD),RAW",
+      "values": [
+        20.0,
+        1.2,
+        4.35,
+        0.2,
+        1.1
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11220; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11024": {
+      "description": "BALSAM-PEAR (BITTER GOURD),PODS,RAW",
+      "values": [
+        17.0,
+        1.0,
+        3.7,
+        0.17,
+        2.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11024; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11422": {
+      "description": "PUMPKIN,RAW",
+      "values": [
+        26.0,
+        1.0,
+        6.5,
+        0.1,
+        0.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11422; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11052": {
+      "description": "BEANS,SNAP,GREEN,RAW",
+      "values": [
+        31.0,
+        1.83,
+        6.97,
+        0.22,
+        2.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11052; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11305": {
+      "description": "PEAS,GRN,CKD,BLD,DRND,WO/SALT",
+      "values": [
+        84.0,
+        5.36,
+        15.63,
+        0.22,
+        5.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11305; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11168": {
+      "description": "CORN,SWT,YEL,CKD,BLD,DRND,WO/SALT",
+      "values": [
+        96.0,
+        3.41,
+        20.98,
+        1.5,
+        2.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11168; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11333": {
+      "description": "PEPPERS,SWT,GRN,RAW",
+      "values": [
+        20.0,
+        0.86,
+        4.64,
+        0.17,
+        1.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11333; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11260": {
+      "description": "MUSHROOMS,WHITE,RAW",
+      "values": [
+        22.0,
+        3.09,
+        3.26,
+        0.34,
+        1.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11260; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11429": {
+      "description": "RADISHES,RAW",
+      "values": [
+        16.0,
+        0.68,
+        3.4,
+        0.1,
+        1.6
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11429; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11510": {
+      "description": "SWEET POTATO,CKD,BLD,WO/ SKN",
+      "values": [
+        76.0,
+        1.37,
+        17.72,
+        0.14,
+        2.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11510; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11519": {
+      "description": "TARO,COOKED,WITHOUT SALT",
+      "values": [
+        142.0,
+        0.52,
+        34.6,
+        0.11,
+        5.1
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11519; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11477": {
+      "description": "SQUASH,SMMR,ZUCCHINI,INCL SKN,RAW",
+      "values": [
+        17.0,
+        1.21,
+        3.11,
+        0.32,
+        1.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11477; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11215": {
+      "description": "GARLIC,RAW",
+      "values": [
+        149.0,
+        6.36,
+        33.06,
+        0.5,
+        2.1
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11215; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11216": {
+      "description": "GINGER ROOT,RAW",
+      "values": [
+        80.0,
+        1.82,
+        17.77,
+        0.75,
+        2.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11216; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11165": {
+      "description": "CORIANDER (CILANTRO) LEAVES,RAW",
+      "values": [
+        23.0,
+        2.13,
+        3.67,
+        0.52,
+        2.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11165; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:02065": {
+      "description": "SPEARMINT,FRESH",
+      "values": [
+        44.0,
+        3.29,
+        8.41,
+        0.73,
+        6.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 02065; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11222": {
+      "description": "DRUMSTICK LEAVES,RAW",
+      "values": [
+        64.0,
+        9.4,
+        8.28,
+        1.4,
+        2.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11222; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12155": {
+      "description": "WALNUTS,ENGLISH",
+      "values": [
+        654.0,
+        15.23,
+        13.71,
+        65.21,
+        6.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12155; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12087": {
+      "description": "NUTS,CASHEW NUTS,RAW",
+      "values": [
+        553.0,
+        18.22,
+        30.19,
+        43.85,
+        3.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12087; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16087": {
+      "description": "PEANUTS,ALL TYPES,RAW",
+      "values": [
+        567.0,
+        25.8,
+        16.13,
+        49.24,
+        8.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16087; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16390": {
+      "description": "PEANUTS,ALL TYPES,DRY-ROASTED,WO/SALT",
+      "values": [
+        587.0,
+        24.35,
+        21.26,
+        49.66,
+        8.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16390; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12151": {
+      "description": "PISTACHIO NUTS,RAW",
+      "values": [
+        560.0,
+        20.16,
+        27.17,
+        45.32,
+        10.6
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12151; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12006": {
+      "description": "CHIA SEEDS,DRIED",
+      "values": [
+        486.0,
+        16.54,
+        42.12,
+        30.74,
+        34.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12006; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12220": {
+      "description": "SEEDS,FLAXSEED",
+      "values": [
+        534.0,
+        18.29,
+        28.88,
+        42.16,
+        27.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12220; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12014": {
+      "description": "PUMPKIN&SQUASH SD KRNLS,DRIED",
+      "values": [
+        559.0,
+        30.23,
+        10.71,
+        49.05,
+        6.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12014; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12036": {
+      "description": "SUNFLOWER SD KRNLS,DRIED",
+      "values": [
+        584.0,
+        20.78,
+        20.0,
+        51.46,
+        8.6
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12036; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12023": {
+      "description": "SESAME SEEDS,WHOLE,DRIED",
+      "values": [
+        573.0,
+        17.73,
+        23.45,
+        49.67,
+        11.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12023; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12104": {
+      "description": "COCONUT MEAT,RAW",
+      "values": [
+        354.0,
+        3.33,
+        15.23,
+        33.49,
+        9.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12104; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12108": {
+      "description": "COCONUT MEAT,DRIED (DESICCATED),NOT SWTND",
+      "values": [
+        660.0,
+        6.88,
+        23.65,
+        64.53,
+        16.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12108; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20037": {
+      "description": "RICE,BROWN,LONG-GRAIN,CKD",
+      "values": [
+        123.0,
+        2.74,
+        25.58,
+        0.97,
+        1.6
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20037; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20137": {
+      "description": "QUINOA,CKD",
+      "values": [
+        120.0,
+        4.4,
+        21.3,
+        1.92,
+        2.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20137; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20013": {
+      "description": "BULGUR,COOKED",
+      "values": [
+        83.0,
+        3.08,
+        18.58,
+        0.24,
+        4.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20013; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20032": {
+      "description": "MILLET,COOKED",
+      "values": [
+        119.0,
+        3.51,
+        23.67,
+        1.0,
+        1.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20032; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20466": {
+      "description": "SEMOLINA,UNENRICHED",
+      "values": [
+        360.0,
+        12.68,
+        72.83,
+        1.05,
+        3.9
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20466; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16157": {
+      "description": "CHICKPEA FLOUR (BESAN)",
+      "values": [
+        387.0,
+        22.39,
+        57.82,
+        6.69,
+        10.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16157; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20080": {
+      "description": "WHEAT FLOUR,WHOLE-GRAIN",
+      "values": [
+        340.0,
+        13.21,
+        71.97,
+        2.5,
+        10.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20080; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20061": {
+      "description": "RICE FLR,WHITE,UNENR",
+      "values": [
+        366.0,
+        5.95,
+        80.13,
+        1.42,
+        2.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20061; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20068": {
+      "description": "TAPIOCA,PEARL,DRY",
+      "values": [
+        358.0,
+        0.19,
+        88.69,
+        0.02,
+        0.9
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20068; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20481": {
+      "description": "WHEAT FLR,WHITE,ALL-PURPOSE,UNENR",
+      "values": [
+        364.0,
+        10.33,
+        76.31,
+        0.98,
+        2.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20481; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:18069": {
+      "description": "BREAD,WHITE,COMMLY PREP (INCL SOFT BREAD CRUMBS)",
+      "values": [
+        266.0,
+        8.85,
+        49.42,
+        3.33,
+        2.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 18069; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20421": {
+      "description": "PASTA,CKD,UNENR,WO/ ADDED SALT",
+      "values": [
+        158.0,
+        5.8,
+        30.86,
+        0.93,
+        1.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20421; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16081": {
+      "description": "MUNG BNS,MATURE SEEDS,CKD,BLD,WO/SALT",
+      "values": [
+        105.0,
+        7.02,
+        19.15,
+        0.38,
+        7.6
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16081; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16084": {
+      "description": "MUNGO BNS,MATURE SEEDS,CKD,BLD,WO/SALT",
+      "values": [
+        105.0,
+        7.54,
+        18.34,
+        0.55,
+        6.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16084; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16102": {
+      "description": "PIGEON PEAS (RED GM),MATURE SEEDS,CKD,BLD,WO/SALT",
+      "values": [
+        121.0,
+        6.76,
+        23.25,
+        0.38,
+        6.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16102; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16033": {
+      "description": "BEANS,KIDNEY,RED,MATURE SEEDS,CKD,BLD,WO/SALT",
+      "values": [
+        127.0,
+        8.67,
+        22.8,
+        0.5,
+        7.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16033; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16063": {
+      "description": "COWPEAS,COMMON (BLKEYES,CRWDR,STHRN),MTURE,CKD,BLD,WO/SALT",
+      "values": [
+        116.0,
+        7.73,
+        20.76,
+        0.53,
+        6.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16063; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11043": {
+      "description": "MUNG BNS,MATURE SEEDS,SPROUTED,RAW",
+      "values": [
+        30.0,
+        3.04,
+        5.94,
+        0.18,
+        1.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11043; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16109": {
+      "description": "SOYBEANS,MATURE CKD,BLD,WO/SALT",
+      "values": [
+        172.0,
+        18.21,
+        8.36,
+        8.97,
+        6.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16109; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16426": {
+      "description": "TOFU,RAW,FIRM,PREP W/CA SULFATE",
+      "values": [
+        144.0,
+        17.27,
+        2.78,
+        8.72,
+        2.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16426; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01256": {
+      "description": "YOGURT,GREEK,PLN,NONFAT",
+      "values": [
+        59.0,
+        10.19,
+        3.6,
+        0.39,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01256; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01079": {
+      "description": "MILK,RED FAT,FLUID,2% MILKFAT,W/ ADDED VIT A & VITAMIN D",
+      "values": [
+        50.0,
+        3.3,
+        4.8,
+        1.98,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01079; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01085": {
+      "description": "MILK,NONFAT,FLUID,W/ ADDED VIT A & VIT D (FAT FREE OR SKIM)",
+      "values": [
+        34.0,
+        3.37,
+        4.96,
+        0.08,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01085; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01108": {
+      "description": "MILK,INDIAN BUFFALO,FLUID",
+      "values": [
+        97.0,
+        3.75,
+        5.18,
+        6.89,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01108; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01009": {
+      "description": "CHEESE,CHEDDAR",
+      "values": [
+        404.0,
+        22.87,
+        3.09,
+        33.31,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01009; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01026": {
+      "description": "CHEESE,MOZZARELLA,WHL MILK",
+      "values": [
+        300.0,
+        22.17,
+        2.19,
+        22.35,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01026; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01001": {
+      "description": "BUTTER,WITH SALT",
+      "values": [
+        717.0,
+        0.85,
+        0.06,
+        81.11,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01001; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01003": {
+      "description": "BUTTER OIL,ANHYDROUS",
+      "values": [
+        876.0,
+        0.28,
+        0.0,
+        99.48,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01003; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12117": {
+      "description": "COCONUT MILK,RAW (LIQ EXPRESSED FROM GRATED MEAT&H2O)",
+      "values": [
+        230.0,
+        2.29,
+        5.54,
+        23.84,
+        2.2
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12117; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12119": {
+      "description": "COCONUT H2O (LIQ FROM COCONUTS)",
+      "values": [
+        19.0,
+        0.72,
+        3.71,
+        0.2,
+        1.1
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12119; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09206": {
+      "description": "ORANGE JUICE,RAW",
+      "values": [
+        45.0,
+        0.7,
+        10.4,
+        0.2,
+        0.2
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09206; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:14355": {
+      "description": "BEVERAGES,TEA,BLACK,BREWED,PREP W/ TAP H2O",
+      "values": [
+        1.0,
+        0.0,
+        0.3,
+        0.0,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 14355; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:14278": {
+      "description": "BEVERAGES,TEA,GRN,BREWED,REG",
+      "values": [
+        1.0,
+        0.22,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 14278; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:14209": {
+      "description": "BEVERAGES,COFFEE,BREWED,PREP W/ TAP H2O",
+      "values": [
+        1.0,
+        0.12,
+        0.0,
+        0.02,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 14209; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:19335": {
+      "description": "SUGARS,GRANULATED",
+      "values": [
+        387.0,
+        0.0,
+        99.98,
+        0.0,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 19335; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:19296": {
+      "description": "HONEY",
+      "values": [
+        304.0,
+        0.3,
+        82.4,
+        0.0,
+        0.2
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 19296; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:28351": {
+      "description": "COOKIES,MARIE BISCUIT",
+      "values": [
+        406.0,
+        7.05,
+        70.54,
+        10.58,
+        3.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 28351; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:19034": {
+      "description": "POPCORN,AIR-POPPED",
+      "values": [
+        387.0,
+        12.94,
+        77.78,
+        4.54,
+        14.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 19034; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:15262": {
+      "description": "FISH,TILAPIA,CKD,DRY HEAT",
+      "values": [
+        128.0,
+        26.15,
+        0.0,
+        2.65,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 15262; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:15047": {
+      "description": "MACKEREL,ATLANTIC,CKD,DRY HEAT",
+      "values": [
+        262.0,
+        23.85,
+        0.0,
+        17.81,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 15047; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:15088": {
+      "description": "SARDINE,ATLANTIC,CND IN OIL,DRND SOL W/BONE",
+      "values": [
+        208.0,
+        24.62,
+        0.0,
+        11.45,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 15088; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:15151": {
+      "description": "CRUSTACEANS,SHRIMP,MXD SP,CKD,MST HT (MAYBE PREVIOUSLY FRZ)",
+      "values": [
+        119.0,
+        22.78,
+        1.52,
+        1.7,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 15151; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:05098": {
+      "description": "CHICKEN,BROILERS OR FRYERS,THIGH,MEAT ONLY,CKD,RSTD",
+      "values": [
+        179.0,
+        24.76,
+        0.0,
+        8.15,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 05098; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "IFCT:A003": {
+      "description": "Bajra / pearl millet, dry",
+      "values": [
+        347.9923518164436,
+        10.96,
+        73.27,
+        5.43,
+        11.49
+      ],
+      "energy_kj": 1456,
+      "carbohydrate_basis": "total estimate: IFCT available carbohydrate + dietary fibre",
+      "source": "ICMR-NIN IFCT 2017 Table 1, A003, printed p3 / PDF p41; energy kJ / 4.184; available carbohydrate (excludes fibre). https://www.nin.res.in/ebooks/IFCT2017.pdf Catalogue carbohydrate = available carbohydrate + dietary fibre, to approximate USDA total-carbohydrate convention.",
+      "available_carbohydrate_g": 61.78
+    },
+    "IFCT:A005": {
+      "description": "Jowar / sorghum, dry",
+      "values": [
+        334.1300191204589,
+        9.97,
+        77.9,
+        1.73,
+        10.22
+      ],
+      "energy_kj": 1398,
+      "carbohydrate_basis": "total estimate: IFCT available carbohydrate + dietary fibre",
+      "source": "ICMR-NIN IFCT 2017 Table 1, A005, printed p3 / PDF p41; energy kJ / 4.184; available carbohydrate (excludes fibre). https://www.nin.res.in/ebooks/IFCT2017.pdf Catalogue carbohydrate = available carbohydrate + dietary fibre, to approximate USDA total-carbohydrate convention.",
+      "available_carbohydrate_g": 67.68
+    },
+    "IFCT:A010": {
+      "description": "Ragi / finger millet, dry",
+      "values": [
+        320.7456978967495,
+        7.16,
+        78.0,
+        1.92,
+        11.18
+      ],
+      "energy_kj": 1342,
+      "carbohydrate_basis": "total estimate: IFCT available carbohydrate + dietary fibre",
+      "source": "ICMR-NIN IFCT 2017 Table 1, A010, printed p3 / PDF p41; energy kJ / 4.184; available carbohydrate (excludes fibre). https://www.nin.res.in/ebooks/IFCT2017.pdf Catalogue carbohydrate = available carbohydrate + dietary fibre, to approximate USDA total-carbohydrate convention.",
+      "available_carbohydrate_g": 66.82
+    },
+    "IFCT:A011": {
+      "description": "Poha / rice flakes, dry",
+      "values": [
+        353.7284894837476,
+        7.44,
+        80.21,
+        1.14,
+        3.46
+      ],
+      "energy_kj": 1480,
+      "carbohydrate_basis": "total estimate: IFCT available carbohydrate + dietary fibre",
+      "source": "ICMR-NIN IFCT 2017 Table 1, A011, printed p3 / PDF p41; energy kJ / 4.184; available carbohydrate (excludes fibre). https://www.nin.res.in/ebooks/IFCT2017.pdf Catalogue carbohydrate = available carbohydrate + dietary fibre, to approximate USDA total-carbohydrate convention.",
+      "available_carbohydrate_g": 76.75
+    },
+    "IFCT:A012": {
+      "description": "Murmura / puffed rice, plain",
+      "values": [
+        361.85468451242826,
+        7.47,
+        80.24,
+        1.62,
+        2.56
+      ],
+      "energy_kj": 1514,
+      "carbohydrate_basis": "total estimate: IFCT available carbohydrate + dietary fibre",
+      "source": "ICMR-NIN IFCT 2017 Table 1, A012, printed p3 / PDF p41; energy kJ / 4.184; available carbohydrate (excludes fibre). https://www.nin.res.in/ebooks/IFCT2017.pdf Catalogue carbohydrate = available carbohydrate + dietary fibre, to approximate USDA total-carbohydrate convention.",
+      "available_carbohydrate_g": 77.68
+    },
+    "IFCT:L003": {
+      "description": "Paneer, plain",
+      "values": [
+        305.4493307839388,
+        18.86,
+        2.41,
+        24.78,
+        0
+      ],
+      "carbohydrate_basis": "total estimate: IFCT available carbohydrate + dietary fibre",
+      "source": "ICMR-NIN IFCT 2017 L003 Table 1 printed p19 / PDF p57; energy kJ / 4.184; available carbohydrate. Fibre blank/below detection, treated as 0 in recipe estimates. https://www.nin.res.in/ebooks/IFCT2017.pdf Catalogue carbohydrate = available carbohydrate + dietary fibre, to approximate USDA total-carbohydrate convention.",
+      "available_carbohydrate_g": 2.41
+    },
+    "IFCT:B003": {
+      "description": "Black gram / urad dal, dry, dehulled",
+      "values": [
+        324.09177820267684,
+        23.06,
+        62.93,
+        1.69,
+        11.93
+      ],
+      "energy_kj": 1356,
+      "carbohydrate_basis": "total estimate: IFCT available carbohydrate + dietary fibre",
+      "source": "ICMR-NIN IFCT 2017 Table 1 B003, printed p4 / PDF p42; kJ / 4.184. https://www.nin.res.in/ebooks/IFCT2017.pdf Catalogue carbohydrate = available carbohydrate + dietary fibre, to approximate USDA total-carbohydrate convention.",
+      "available_carbohydrate_g": 51.0
+    },
+    "IFCT:B010": {
+      "description": "Green gram / moong dal, dry, dehulled",
+      "values": [
+        325.7648183556405,
+        23.88,
+        61.96,
+        1.35,
+        9.37
+      ],
+      "energy_kj": 1363,
+      "carbohydrate_basis": "total estimate: IFCT available carbohydrate + dietary fibre",
+      "source": "ICMR-NIN IFCT 2017 Table 1 B010, printed p4 / PDF p42; kJ / 4.184. https://www.nin.res.in/ebooks/IFCT2017.pdf Catalogue carbohydrate = available carbohydrate + dietary fibre, to approximate USDA total-carbohydrate convention.",
+      "available_carbohydrate_g": 52.59
+    },
+    "HILIFE:soy": {
+      "description": "Hilife Soya Chunks, dry",
+      "values": [
+        345,
+        52,
+        33,
+        0.5,
+        13
+      ],
+      "carbohydrate_basis": "manufacturer label",
+      "source": "Hilife manufacturer Product Catalogue, PDF p58, Soyabean Masyaura / Soya Chunks; label per 100 g dry, dietary fibre (not crude fibre). https://hilifefoods.com.np/HilifeProductCatalog.pdf"
+    },
+    "USDA:20045": {
+      "description": "RICE,WHITE,LONG-GRAIN,REG,ENR,CKD",
+      "values": [
+        130.0,
+        2.69,
+        28.17,
+        0.28,
+        0.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20045; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20044": {
+      "description": "RICE,WHITE,LONG-GRAIN,REG,RAW,ENR",
+      "values": [
+        365.0,
+        7.13,
+        79.95,
+        0.66,
+        1.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20044; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16083": {
+      "description": "MUNGO BNS,MATURE SEEDS,RAW",
+      "values": [
+        341.0,
+        25.21,
+        58.99,
+        1.64,
+        18.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16083; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16080": {
+      "description": "MUNG BNS,MATURE SEEDS,RAW",
+      "values": [
+        347.0,
+        23.86,
+        62.62,
+        1.15,
+        16.3
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16080; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16070": {
+      "description": "LENTILS,MATURE SEEDS,CKD,BLD,WO/SALT",
+      "values": [
+        116.0,
+        9.02,
+        20.13,
+        0.38,
+        7.9
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16070; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16057": {
+      "description": "CHICKPEAS ,MATURE SEEDS,CKD,BLD,WO/SALT",
+      "values": [
+        164.0,
+        8.86,
+        27.42,
+        2.59,
+        7.6
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16057; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16056": {
+      "description": "CHICKPEAS (GARBANZO BNS,BENGAL GM),MATURE SEEDS,RAW",
+      "values": [
+        378.0,
+        20.47,
+        62.95,
+        6.04,
+        12.2
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16056; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01116": {
+      "description": "YOGURT,PLN,WHL MILK,8 GRAMS PROT PER 8 OZ",
+      "values": [
+        61.0,
+        3.47,
+        4.66,
+        3.25,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01116; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01129": {
+      "description": "EGG,WHL,CKD,HARD-BOILED",
+      "values": [
+        155.0,
+        12.58,
+        1.12,
+        10.61,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01129; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:05064": {
+      "description": "CHICKEN,BROILERS OR FRYERS,BREAST,MEAT ONLY,CKD,RSTD",
+      "values": [
+        165.0,
+        31.02,
+        0.0,
+        3.57,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 05064; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09040": {
+      "description": "BANANAS,RAW",
+      "values": [
+        89.0,
+        1.09,
+        22.84,
+        0.33,
+        2.6
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09040; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:09003": {
+      "description": "APPLES,RAW,WITH SKIN",
+      "values": [
+        52.0,
+        0.26,
+        13.81,
+        0.17,
+        2.4
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09003; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:12061": {
+      "description": "ALMONDS",
+      "values": [
+        579.0,
+        21.15,
+        21.55,
+        49.93,
+        12.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 12061; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11282": {
+      "description": "ONIONS,RAW",
+      "values": [
+        40.0,
+        1.1,
+        9.34,
+        0.1,
+        1.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11282; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11529": {
+      "description": "TOMATOES,RED,RIPE,RAW,YEAR RND AVERAGE",
+      "values": [
+        18.0,
+        0.88,
+        3.89,
+        0.2,
+        1.2
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11529; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11457": {
+      "description": "SPINACH,RAW",
+      "values": [
+        23.0,
+        2.86,
+        3.63,
+        0.39,
+        2.2
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11457; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11124": {
+      "description": "CARROTS,RAW",
+      "values": [
+        41.0,
+        0.93,
+        9.58,
+        0.24,
+        2.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11124; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11205": {
+      "description": "CUCUMBER,WITH PEEL,RAW",
+      "values": [
+        15.0,
+        0.65,
+        3.63,
+        0.11,
+        0.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11205; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11367": {
+      "description": "POTATOES,BLD,CKD WO/ SKN,FLESH,WO/ SALT",
+      "values": [
+        86.0,
+        1.71,
+        20.01,
+        0.1,
+        1.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11367; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01077": {
+      "description": "MILK,WHL,3.25% MILKFAT,W/ ADDED VITAMIN D",
+      "values": [
+        61.0,
+        3.15,
+        4.8,
+        3.25,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01077; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:18075": {
+      "description": "BREAD,WHOLE-WHEAT,COMM. PREPARED",
+      "values": [
+        252.0,
+        12.45,
+        42.71,
+        3.5,
+        6.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 18075; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:04044": {
+      "description": "OIL,SOYBN,SALAD OR COOKING",
+      "values": [
+        884.0,
+        0.0,
+        0.0,
+        100.0,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 04044; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01050": {
+      "description": "CREAM,FLUID,LT (COFFEE CRM OR TABLE CRM)",
+      "values": [
+        191.0,
+        2.96,
+        2.82,
+        19.1,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01050; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:20038": {
+      "description": "OATS",
+      "values": [
+        389.0,
+        16.89,
+        66.27,
+        6.9,
+        10.6
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 20038; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:02014": {
+      "description": "CUMIN SEED",
+      "values": [
+        375.0,
+        17.81,
+        44.24,
+        22.27,
+        10.5
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 02014; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:02015": {
+      "description": "CURRY POWDER",
+      "values": [
+        325.0,
+        14.29,
+        55.83,
+        14.01,
+        53.2
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 02015; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:02043": {
+      "description": "TURMERIC,GROUND",
+      "values": [
+        312.0,
+        9.68,
+        67.14,
+        3.25,
+        22.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 02043; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:02009": {
+      "description": "CHILI POWDER",
+      "values": [
+        282.0,
+        13.46,
+        49.7,
+        14.28,
+        34.8
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 02009; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:02021": {
+      "description": "GINGER,GROUND",
+      "values": [
+        335.0,
+        8.98,
+        71.62,
+        4.24,
+        14.1
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 02021; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:19297": {
+      "description": "JAMS AND PRESERVES",
+      "values": [
+        278.0,
+        0.37,
+        68.86,
+        0.07,
+        1.1
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 19297; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01124": {
+      "description": "EGG,WHITE,RAW,FRESH",
+      "values": [
+        52.0,
+        10.9,
+        0.73,
+        0.17,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01124; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01123": {
+      "description": "EGG,WHL,RAW,FRSH",
+      "values": [
+        143.0,
+        12.56,
+        0.72,
+        9.51,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01123; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01109": {
+      "description": "MILK,SHEEP,FLUID",
+      "values": [
+        108.0,
+        5.98,
+        5.36,
+        7.0,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01109; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:11304": {
+      "description": "PEAS,GREEN,RAW",
+      "values": [
+        81.0,
+        5.42,
+        14.45,
+        0.4,
+        5.7
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 11304; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:14411": {
+      "description": "BEVERAGES,H2O,TAP,DRINKING",
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 14411; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:16122": {
+      "description": "SOY PROTEIN ISOLATE",
+      "values": [
+        335.0,
+        88.32,
+        0.0,
+        3.39,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 16122; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "WATER": {
+      "description": "Water, zero contribution to tracked nutrients",
+      "values": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "source": "Recipe water; zero kcal/macronutrients",
+      "carbohydrate_basis": "none"
+    },
+    "USDA:09322": {
+      "description": "TAMARINDS,RAW",
+      "values": [
+        239.0,
+        2.8,
+        62.5,
+        0.6,
+        5.1
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 09322; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    },
+    "USDA:01091": {
+      "description": "MILK,DRY,NONFAT,REG,WO/ ADDED VIT A & VITAMIN D",
+      "values": [
+        362.0,
+        36.16,
+        51.98,
+        0.77,
+        0.0
+      ],
+      "source": "USDA Standard Reference 28 (May 2016), NDB 01091; https://www.ars.usda.gov/ARSUserFiles/80400535/DATA/SR/sr28/dnload/sr28abbr.zip",
+      "carbohydrate_basis": "total (by difference)"
+    }
+  }
+}

@@ -1,0 +1,4069 @@
+[
+  {
+    "name": "Mango, raw, edible flesh",
+    "category": "Fruits",
+    "reference": "USDA:09176",
+    "servings": [
+      [
+        "Cup diced (estimated g)",
+        165
+      ]
+    ]
+  },
+  {
+    "name": "Orange, raw, peeled",
+    "category": "Fruits",
+    "reference": "USDA:09200",
+    "servings": [
+      [
+        "Medium orange, edible portion (estimated g)",
+        131
+      ]
+    ]
+  },
+  {
+    "name": "Grapes, raw",
+    "category": "Fruits",
+    "reference": "USDA:09132",
+    "servings": [
+      [
+        "Cup (estimated g)",
+        151
+      ]
+    ]
+  },
+  {
+    "name": "Papaya, raw, edible flesh",
+    "category": "Fruits",
+    "reference": "USDA:09226",
+    "servings": [
+      [
+        "Cup cubed (estimated g)",
+        145
+      ]
+    ]
+  },
+  {
+    "name": "Guava, raw",
+    "category": "Fruits",
+    "reference": "USDA:09139",
+    "servings": [
+      [
+        "Small guava (estimated g)",
+        55
+      ]
+    ]
+  },
+  {
+    "name": "Watermelon, raw, edible flesh",
+    "category": "Fruits",
+    "reference": "USDA:09326",
+    "servings": [
+      [
+        "Cup diced (estimated g)",
+        152
+      ]
+    ]
+  },
+  {
+    "name": "Pomegranate arils, raw",
+    "category": "Fruits",
+    "reference": "USDA:09286",
+    "servings": [
+      [
+        "Half cup arils (estimated g)",
+        87
+      ]
+    ]
+  },
+  {
+    "name": "Pineapple, raw, edible flesh",
+    "category": "Fruits",
+    "reference": "USDA:09266",
+    "servings": [
+      [
+        "Cup chunks (estimated g)",
+        165
+      ]
+    ]
+  },
+  {
+    "name": "Pear, raw",
+    "category": "Fruits",
+    "reference": "USDA:09252",
+    "servings": [
+      [
+        "Medium pear (estimated g)",
+        178
+      ]
+    ]
+  },
+  {
+    "name": "Peach, raw",
+    "category": "Fruits",
+    "reference": "USDA:09236",
+    "servings": [
+      [
+        "Medium peach, edible portion (estimated g)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Plum, raw",
+    "category": "Fruits",
+    "reference": "USDA:09279",
+    "servings": [
+      [
+        "Medium plum, edible portion (estimated g)",
+        66
+      ]
+    ]
+  },
+  {
+    "name": "Kiwi, raw, peeled",
+    "category": "Fruits",
+    "reference": "USDA:09148",
+    "servings": [
+      [
+        "Medium kiwi, edible portion (estimated g)",
+        69
+      ]
+    ]
+  },
+  {
+    "name": "Strawberries, raw",
+    "category": "Fruits",
+    "reference": "USDA:09316",
+    "servings": [
+      [
+        "Cup halves (estimated g)",
+        152
+      ]
+    ]
+  },
+  {
+    "name": "Muskmelon / cantaloupe, raw",
+    "category": "Fruits",
+    "reference": "USDA:09181",
+    "servings": [
+      [
+        "Cup cubed (estimated g)",
+        160
+      ]
+    ]
+  },
+  {
+    "name": "Chikoo / sapodilla, raw",
+    "category": "Fruits",
+    "reference": "USDA:09313",
+    "servings": [
+      [
+        "Cup pieces (estimated g)",
+        170
+      ]
+    ]
+  },
+  {
+    "name": "Sitaphal / custard apple, raw, pulp",
+    "category": "Fruits",
+    "reference": "USDA:09321",
+    "servings": [
+      [
+        "Pulp portion, no seeds (estimated g)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Jackfruit, raw, edible bulbs",
+    "category": "Fruits",
+    "reference": "USDA:09144",
+    "servings": [
+      [
+        "Cup sliced bulbs (estimated g)",
+        165
+      ]
+    ]
+  },
+  {
+    "name": "Litchi, raw, peeled and pitted",
+    "category": "Fruits",
+    "reference": "USDA:09164",
+    "servings": [
+      [
+        "Edible portion (estimated g)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Avocado, raw, flesh",
+    "category": "Fruits",
+    "reference": "USDA:09038",
+    "servings": [
+      [
+        "Flesh portion (estimated g)",
+        50
+      ]
+    ]
+  },
+  {
+    "name": "Dates, deglet noor, dried, pitted",
+    "category": "Fruits",
+    "reference": "USDA:09087",
+    "servings": [
+      [
+        "Three small dates (estimated g)",
+        21
+      ]
+    ]
+  },
+  {
+    "name": "Raisins, seedless",
+    "category": "Fruits",
+    "reference": "USDA:09298",
+    "servings": [
+      [
+        "Small handful (estimated g)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Figs, dried",
+    "category": "Fruits",
+    "reference": "USDA:09094",
+    "servings": [
+      [
+        "Small portion (estimated g)",
+        25
+      ]
+    ]
+  },
+  {
+    "name": "Apricots, dried, sulphured",
+    "category": "Fruits",
+    "reference": "USDA:09032",
+    "servings": [
+      [
+        "Small handful (estimated g)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Lemon juice, raw",
+    "category": "Fruits",
+    "reference": "USDA:09152",
+    "servings": [
+      [
+        "Tablespoon (estimated g)",
+        15
+      ]
+    ]
+  },
+  {
+    "name": "Lime, raw, edible portion",
+    "category": "Fruits",
+    "reference": "USDA:09159",
+    "servings": [
+      [
+        "Medium lime, edible portion (estimated g)",
+        67
+      ]
+    ]
+  },
+  {
+    "name": "Broccoli, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11090",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Cauliflower / gobhi, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11135",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Beetroot, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11080",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Cabbage, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11109",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Brinjal / eggplant, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11209",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Bhindi / okra, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11278",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Lauki / bottle gourd, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11218",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Sponge gourd / gilki / turai, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11220",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Karela / bitter gourd, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11024",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Pumpkin, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11422",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Green beans, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11052",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Green peas, boiled, drained",
+    "category": "Vegetables",
+    "reference": "USDA:11305",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Sweet corn, boiled, drained",
+    "category": "Vegetables",
+    "reference": "USDA:11168",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Capsicum / green bell pepper, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11333",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Mushrooms, white, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11260",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Radish / mooli, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11429",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Sweet potato, boiled, without skin",
+    "category": "Vegetables",
+    "reference": "USDA:11510",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Arbi / taro, cooked without salt",
+    "category": "Vegetables",
+    "reference": "USDA:11519",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Zucchini, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11477",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Garlic, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11215",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Ginger, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11216",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Coriander leaves / cilantro, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11165",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Mint / pudina, fresh spearmint",
+    "category": "Vegetables",
+    "reference": "USDA:02065",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Drumstick / moringa leaves, raw",
+    "category": "Vegetables",
+    "reference": "USDA:11222",
+    "servings": [
+      [
+        "Portion, edible weight (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Walnuts, English, kernels",
+    "category": "Nuts and seeds",
+    "reference": "USDA:12155",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        28
+      ]
+    ]
+  },
+  {
+    "name": "Cashews, raw",
+    "category": "Nuts and seeds",
+    "reference": "USDA:12087",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        28
+      ]
+    ]
+  },
+  {
+    "name": "Peanuts, raw, shelled",
+    "category": "Nuts and seeds",
+    "reference": "USDA:16087",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        28
+      ]
+    ]
+  },
+  {
+    "name": "Peanuts, dry roasted, unsalted",
+    "category": "Nuts and seeds",
+    "reference": "USDA:16390",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        28
+      ]
+    ]
+  },
+  {
+    "name": "Pistachios, raw, shelled",
+    "category": "Nuts and seeds",
+    "reference": "USDA:12151",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        28
+      ]
+    ]
+  },
+  {
+    "name": "Chia seeds, dry",
+    "category": "Nuts and seeds",
+    "reference": "USDA:12006",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        12
+      ]
+    ]
+  },
+  {
+    "name": "Flaxseeds / alsi",
+    "category": "Nuts and seeds",
+    "reference": "USDA:12220",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        10
+      ]
+    ]
+  },
+  {
+    "name": "Pumpkin seed kernels, dried",
+    "category": "Nuts and seeds",
+    "reference": "USDA:12014",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        28
+      ]
+    ]
+  },
+  {
+    "name": "Sunflower seed kernels, dried",
+    "category": "Nuts and seeds",
+    "reference": "USDA:12036",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        28
+      ]
+    ]
+  },
+  {
+    "name": "Sesame seeds / til, whole, dried",
+    "category": "Nuts and seeds",
+    "reference": "USDA:12023",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        9
+      ]
+    ]
+  },
+  {
+    "name": "Coconut, fresh flesh",
+    "category": "Nuts and seeds",
+    "reference": "USDA:12104",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Coconut, desiccated, unsweetened",
+    "category": "Nuts and seeds",
+    "reference": "USDA:12108",
+    "servings": [
+      [
+        "Small portion (estimated)",
+        10
+      ]
+    ]
+  },
+  {
+    "name": "Rice, brown, cooked",
+    "category": "Rice and grains",
+    "reference": "USDA:20037",
+    "servings": [
+      [
+        "Cup cooked (estimated)",
+        195
+      ]
+    ]
+  },
+  {
+    "name": "Quinoa, cooked",
+    "category": "Rice and grains",
+    "reference": "USDA:20137",
+    "servings": [
+      [
+        "Cup cooked (estimated)",
+        185
+      ]
+    ]
+  },
+  {
+    "name": "Bulgur, cooked (dalia proxy)",
+    "category": "Rice and grains",
+    "reference": "USDA:20013",
+    "servings": [
+      [
+        "Cup cooked (estimated)",
+        182
+      ]
+    ]
+  },
+  {
+    "name": "Millet, generic, cooked",
+    "category": "Rice and grains",
+    "reference": "USDA:20032",
+    "servings": [
+      [
+        "Cup cooked (estimated)",
+        174
+      ]
+    ]
+  },
+  {
+    "name": "Semolina / sooji / rava, dry",
+    "category": "Rice and grains",
+    "reference": "USDA:20466",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        40
+      ]
+    ]
+  },
+  {
+    "name": "Besan / chickpea flour, dry",
+    "category": "Rice and grains",
+    "reference": "USDA:16157",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Whole-wheat flour / atta, dry",
+    "category": "Rice and grains",
+    "reference": "USDA:20080",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Rice flour, white, dry",
+    "category": "Rice and grains",
+    "reference": "USDA:20061",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Sabudana / tapioca pearls, dry",
+    "category": "Rice and grains",
+    "reference": "USDA:20068",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Maida / wheat flour, refined, dry",
+    "category": "Rice and grains",
+    "reference": "USDA:20481",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Bread, white",
+    "category": "Rice and grains",
+    "reference": "USDA:18069",
+    "servings": [
+      [
+        "Slice (estimated)",
+        25
+      ]
+    ]
+  },
+  {
+    "name": "Pasta, cooked, unenriched, plain",
+    "category": "Rice and grains",
+    "reference": "USDA:20421",
+    "servings": [
+      [
+        "Cup cooked (estimated)",
+        140
+      ]
+    ]
+  },
+  {
+    "name": "Moong / mung beans, boiled",
+    "category": "Protein",
+    "reference": "USDA:16081",
+    "servings": [
+      [
+        "Bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Urad / black gram, boiled, whole",
+    "category": "Protein",
+    "reference": "USDA:16084",
+    "servings": [
+      [
+        "Bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Toor / pigeon peas, boiled",
+    "category": "Protein",
+    "reference": "USDA:16102",
+    "servings": [
+      [
+        "Bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Rajma / red kidney beans, boiled",
+    "category": "Protein",
+    "reference": "USDA:16033",
+    "servings": [
+      [
+        "Bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Lobia / black-eyed peas, boiled",
+    "category": "Protein",
+    "reference": "USDA:16063",
+    "servings": [
+      [
+        "Bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Moong sprouts, raw",
+    "category": "Protein",
+    "reference": "USDA:11043",
+    "servings": [
+      [
+        "Cup (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Soybeans, mature, boiled",
+    "category": "Protein",
+    "reference": "USDA:16109",
+    "servings": [
+      [
+        "Bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Tofu, firm, calcium-set",
+    "category": "Protein",
+    "reference": "USDA:16426",
+    "servings": [
+      [
+        "Portion (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Greek yogurt, plain, nonfat",
+    "category": "Dairy",
+    "reference": "USDA:01256",
+    "servings": [
+      [
+        "Bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Milk, reduced-fat, 2%",
+    "category": "Dairy",
+    "reference": "USDA:01079",
+    "servings": [
+      [
+        "Cup, weighed (estimated)",
+        245
+      ]
+    ]
+  },
+  {
+    "name": "Milk, skimmed / nonfat",
+    "category": "Dairy",
+    "reference": "USDA:01085",
+    "servings": [
+      [
+        "Cup, weighed (estimated)",
+        245
+      ]
+    ]
+  },
+  {
+    "name": "Milk, buffalo",
+    "category": "Dairy",
+    "reference": "USDA:01108",
+    "servings": [
+      [
+        "Cup, weighed (estimated)",
+        245
+      ]
+    ]
+  },
+  {
+    "name": "Cheddar cheese",
+    "category": "Dairy",
+    "reference": "USDA:01009",
+    "servings": [
+      [
+        "Slice (estimated)",
+        20
+      ]
+    ]
+  },
+  {
+    "name": "Mozzarella cheese, whole-milk",
+    "category": "Dairy",
+    "reference": "USDA:01026",
+    "servings": [
+      [
+        "Portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Butter, salted",
+    "category": "Dairy",
+    "reference": "USDA:01001",
+    "servings": [
+      [
+        "Teaspoon (estimated)",
+        5
+      ]
+    ]
+  },
+  {
+    "name": "Ghee / anhydrous butter oil",
+    "category": "Dairy",
+    "reference": "USDA:01003",
+    "servings": [
+      [
+        "Teaspoon (estimated)",
+        5
+      ]
+    ]
+  },
+  {
+    "name": "Coconut milk, freshly expressed",
+    "category": "Dairy alternatives",
+    "reference": "USDA:12117",
+    "servings": [
+      [
+        "Cup, weighed (estimated)",
+        240
+      ]
+    ]
+  },
+  {
+    "name": "Coconut water, fresh",
+    "category": "Beverages",
+    "reference": "USDA:12119",
+    "servings": [
+      [
+        "Glass, weighed (estimated)",
+        250
+      ]
+    ]
+  },
+  {
+    "name": "Orange juice, raw",
+    "category": "Beverages",
+    "reference": "USDA:09206",
+    "servings": [
+      [
+        "Glass, weighed (estimated)",
+        250
+      ]
+    ]
+  },
+  {
+    "name": "Tea, black, brewed, unsweetened",
+    "category": "Beverages",
+    "reference": "USDA:14355",
+    "servings": [
+      [
+        "Cup, weighed (estimated)",
+        240
+      ]
+    ]
+  },
+  {
+    "name": "Tea, green, brewed, unsweetened",
+    "category": "Beverages",
+    "reference": "USDA:14278",
+    "servings": [
+      [
+        "Cup, weighed (estimated)",
+        240
+      ]
+    ]
+  },
+  {
+    "name": "Coffee, brewed, black, unsweetened",
+    "category": "Beverages",
+    "reference": "USDA:14209",
+    "servings": [
+      [
+        "Cup, weighed (estimated)",
+        240
+      ]
+    ]
+  },
+  {
+    "name": "Sugar, white, granulated",
+    "category": "Sweets",
+    "reference": "USDA:19335",
+    "servings": [
+      [
+        "Teaspoon (estimated)",
+        4
+      ]
+    ]
+  },
+  {
+    "name": "Honey",
+    "category": "Sweets",
+    "reference": "USDA:19296",
+    "servings": [
+      [
+        "Teaspoon (estimated)",
+        7
+      ]
+    ]
+  },
+  {
+    "name": "Marie biscuits, generic reference",
+    "category": "Snacks",
+    "reference": "USDA:28351",
+    "servings": [
+      [
+        "Biscuit (estimated)",
+        6
+      ]
+    ]
+  },
+  {
+    "name": "Popcorn, air-popped, plain",
+    "category": "Snacks",
+    "reference": "USDA:19034",
+    "servings": [
+      [
+        "Cup (estimated)",
+        8
+      ]
+    ]
+  },
+  {
+    "name": "Fish, tilapia, cooked, dry heat",
+    "category": "Protein",
+    "reference": "USDA:15262",
+    "servings": [
+      [
+        "Edible fillet portion (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Fish, Atlantic mackerel, cooked, dry heat",
+    "category": "Protein",
+    "reference": "USDA:15047",
+    "servings": [
+      [
+        "Edible boneless portion (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Fish, sardines, canned in oil, drained, with bones",
+    "category": "Protein",
+    "reference": "USDA:15088",
+    "servings": [
+      [
+        "Drained portion (estimated)",
+        90
+      ]
+    ]
+  },
+  {
+    "name": "Prawns / shrimp, cooked, moist heat",
+    "category": "Protein",
+    "reference": "USDA:15151",
+    "servings": [
+      [
+        "Edible shelled portion (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Chicken thigh, meat only, roasted",
+    "category": "Protein",
+    "reference": "USDA:05098",
+    "servings": [
+      [
+        "Boneless portion (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Bajra / pearl millet, dry",
+    "category": "Rice and grains",
+    "reference": "IFCT:A003",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Jowar / sorghum, dry",
+    "category": "Rice and grains",
+    "reference": "IFCT:A005",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Ragi / finger millet, dry",
+    "category": "Rice and grains",
+    "reference": "IFCT:A010",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Poha / rice flakes, dry",
+    "category": "Rice and grains",
+    "reference": "IFCT:A011",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Murmura / puffed rice, plain",
+    "category": "Rice and grains",
+    "reference": "IFCT:A012",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Black gram / urad dal, dry, dehulled",
+    "category": "Protein",
+    "reference": "IFCT:B003",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Green gram / moong dal, dry, dehulled",
+    "category": "Protein",
+    "reference": "IFCT:B010",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Soya / soy chunks, dry (Hilife label reference)",
+    "brand": "Hilife",
+    "category": "Protein",
+    "reference": "HILIFE:soy",
+    "servings": [
+      [
+        "Dry portion (estimated)",
+        25
+      ]
+    ]
+  },
+  {
+    "name": "Idli, steamed",
+    "category": "South Indian",
+    "yield_g": 400,
+    "ingredients": [
+      {
+        "reference": "USDA:20044",
+        "grams": 100
+      },
+      {
+        "reference": "IFCT:B003",
+        "grams": 35
+      },
+      {
+        "reference": "WATER",
+        "grams": 300
+      }
+    ],
+    "method": "Soak/grind where applicable; steam. Final edible cooked yield is an estimate; fermentation changes are not modelled.",
+    "servings": [
+      [
+        "1 idli (estimated)",
+        40
+      ]
+    ]
+  },
+  {
+    "name": "Dosa, plain, with oil",
+    "category": "South Indian",
+    "yield_g": 300,
+    "ingredients": [
+      {
+        "reference": "USDA:20044",
+        "grams": 100
+      },
+      {
+        "reference": "IFCT:B003",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 10
+      },
+      {
+        "reference": "WATER",
+        "grams": 280
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 dosa (estimated)",
+        75
+      ]
+    ]
+  },
+  {
+    "name": "Masala dosa, potato filled",
+    "category": "South Indian",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:20044",
+        "grams": 100
+      },
+      {
+        "reference": "IFCT:B003",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:11367",
+        "grams": 250
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 25
+      },
+      {
+        "reference": "WATER",
+        "grams": 400
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 filled dosa (estimated)",
+        200
+      ]
+    ]
+  },
+  {
+    "name": "Rava dosa, with oil",
+    "category": "South Indian",
+    "yield_g": 320,
+    "ingredients": [
+      {
+        "reference": "USDA:20466",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:20061",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:20481",
+        "grams": 20
+      },
+      {
+        "reference": "USDA:01116",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 350
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 dosa (estimated)",
+        80
+      ]
+    ]
+  },
+  {
+    "name": "Uttapam, onion and tomato",
+    "category": "South Indian",
+    "yield_g": 420,
+    "ingredients": [
+      {
+        "reference": "USDA:20044",
+        "grams": 100
+      },
+      {
+        "reference": "IFCT:B003",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 70
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 70
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 12
+      },
+      {
+        "reference": "WATER",
+        "grams": 250
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 uttapam (estimated)",
+        140
+      ]
+    ]
+  },
+  {
+    "name": "Medu vada, fried urad",
+    "category": "South Indian",
+    "yield_g": 250,
+    "ingredients": [
+      {
+        "reference": "IFCT:B003",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 30
+      },
+      {
+        "reference": "WATER",
+        "grams": 150
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 vada (estimated)",
+        50
+      ]
+    ]
+  },
+  {
+    "name": "Sambar, vegetable and toor dal",
+    "category": "South Indian",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:16102",
+        "grams": 200
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 50
+      },
+      {
+        "reference": "USDA:11124",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:09322",
+        "grams": 10
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 10
+      },
+      {
+        "reference": "WATER",
+        "grams": 250
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Coconut chutney",
+    "category": "South Indian",
+    "yield_g": 250,
+    "ingredients": [
+      {
+        "reference": "USDA:12104",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:16057",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 5
+      },
+      {
+        "reference": "WATER",
+        "grams": 135
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 tablespoon (estimated)",
+        15
+      ]
+    ]
+  },
+  {
+    "name": "Ven pongal, rice and moong",
+    "category": "South Indian",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:20044",
+        "grams": 100
+      },
+      {
+        "reference": "IFCT:B010",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:01003",
+        "grams": 20
+      },
+      {
+        "reference": "USDA:12087",
+        "grams": 10
+      },
+      {
+        "reference": "USDA:02014",
+        "grams": 2
+      },
+      {
+        "reference": "WATER",
+        "grams": 600
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Upma, rava with vegetables",
+    "category": "South Indian",
+    "yield_g": 500,
+    "ingredients": [
+      {
+        "reference": "USDA:20466",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 50
+      },
+      {
+        "reference": "USDA:11124",
+        "grams": 50
+      },
+      {
+        "reference": "USDA:11305",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 400
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Appam, rice and coconut",
+    "category": "South Indian",
+    "yield_g": 400,
+    "ingredients": [
+      {
+        "reference": "USDA:20044",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:12117",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 5
+      },
+      {
+        "reference": "WATER",
+        "grams": 300
+      }
+    ],
+    "method": "Soak/grind where applicable; steam. Final edible cooked yield is an estimate; fermentation changes are not modelled.",
+    "servings": [
+      [
+        "1 appam (estimated)",
+        80
+      ]
+    ]
+  },
+  {
+    "name": "Pesarattu, whole moong dosa",
+    "category": "South Indian",
+    "yield_g": 350,
+    "ingredients": [
+      {
+        "reference": "USDA:16080",
+        "grams": 120
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 50
+      },
+      {
+        "reference": "USDA:11216",
+        "grams": 5
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 12
+      },
+      {
+        "reference": "WATER",
+        "grams": 250
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 pesarattu (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Ragi dosa, with oil",
+    "category": "South Indian",
+    "yield_g": 400,
+    "ingredients": [
+      {
+        "reference": "IFCT:A010",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:20061",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:01116",
+        "grams": 50
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 12
+      },
+      {
+        "reference": "WATER",
+        "grams": 300
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 dosa (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Rava idli, steamed",
+    "category": "South Indian",
+    "yield_g": 450,
+    "ingredients": [
+      {
+        "reference": "USDA:20466",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:01116",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:11124",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 10
+      },
+      {
+        "reference": "WATER",
+        "grams": 200
+      }
+    ],
+    "method": "Soak/grind where applicable; steam. Final edible cooked yield is an estimate; fermentation changes are not modelled.",
+    "servings": [
+      [
+        "1 idli (estimated)",
+        50
+      ]
+    ]
+  },
+  {
+    "name": "Idiyappam / string hoppers, plain",
+    "category": "South Indian",
+    "yield_g": 360,
+    "ingredients": [
+      {
+        "reference": "USDA:20061",
+        "grams": 120
+      },
+      {
+        "reference": "WATER",
+        "grams": 300
+      }
+    ],
+    "method": "Soak/grind where applicable; steam. Final edible cooked yield is an estimate; fermentation changes are not modelled.",
+    "servings": [
+      [
+        "1 nest (estimated)",
+        60
+      ]
+    ]
+  },
+  {
+    "name": "Puttu, rice and coconut",
+    "category": "South Indian",
+    "yield_g": 400,
+    "ingredients": [
+      {
+        "reference": "USDA:20061",
+        "grams": 120
+      },
+      {
+        "reference": "USDA:12104",
+        "grams": 60
+      },
+      {
+        "reference": "WATER",
+        "grams": 250
+      }
+    ],
+    "method": "Soak/grind where applicable; steam. Final edible cooked yield is an estimate; fermentation changes are not modelled.",
+    "servings": [
+      [
+        "1 portion (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Rasam, tomato and tamarind",
+    "category": "South Indian",
+    "yield_g": 600,
+    "ingredients": [
+      {
+        "reference": "USDA:11529",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:16102",
+        "grams": 50
+      },
+      {
+        "reference": "USDA:09322",
+        "grams": 10
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 5
+      },
+      {
+        "reference": "USDA:02014",
+        "grams": 2
+      },
+      {
+        "reference": "WATER",
+        "grams": 420
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 cup, weighed (estimated)",
+        200
+      ]
+    ]
+  },
+  {
+    "name": "Avial, mixed vegetables and coconut",
+    "category": "South Indian",
+    "yield_g": 600,
+    "ingredients": [
+      {
+        "reference": "USDA:11124",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11135",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11367",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:12104",
+        "grams": 50
+      },
+      {
+        "reference": "USDA:01116",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 10
+      },
+      {
+        "reference": "WATER",
+        "grams": 140
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Plain paratha, whole wheat with oil",
+    "category": "North Indian",
+    "yield_g": 250,
+    "ingredients": [
+      {
+        "reference": "USDA:20080",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 120
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 paratha (estimated)",
+        80
+      ]
+    ]
+  },
+  {
+    "name": "Aloo paratha",
+    "category": "North Indian",
+    "yield_g": 450,
+    "ingredients": [
+      {
+        "reference": "USDA:20080",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:11367",
+        "grams": 200
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 25
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 paratha (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Paneer paratha",
+    "category": "North Indian",
+    "yield_g": 450,
+    "ingredients": [
+      {
+        "reference": "USDA:20080",
+        "grams": 150
+      },
+      {
+        "reference": "IFCT:L003",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 130
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 paratha (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Gobhi paratha",
+    "category": "North Indian",
+    "yield_g": 420,
+    "ingredients": [
+      {
+        "reference": "USDA:20080",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:11135",
+        "grams": 180
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 120
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 paratha (estimated)",
+        140
+      ]
+    ]
+  },
+  {
+    "name": "Poori / puri, fried whole wheat",
+    "category": "North Indian",
+    "yield_g": 220,
+    "ingredients": [
+      {
+        "reference": "USDA:20080",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 30
+      },
+      {
+        "reference": "WATER",
+        "grams": 80
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 poori (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Chole, chickpea curry",
+    "category": "North Indian",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:16057",
+        "grams": 400
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "USDA:11216",
+        "grams": 5
+      },
+      {
+        "reference": "USDA:11215",
+        "grams": 5
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Rajma curry",
+    "category": "North Indian",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:16033",
+        "grams": 400
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 120
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:11216",
+        "grams": 5
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Dal makhani",
+    "category": "North Indian",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:16084",
+        "grams": 350
+      },
+      {
+        "reference": "USDA:16033",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:01001",
+        "grams": 20
+      },
+      {
+        "reference": "USDA:01050",
+        "grams": 50
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Kadhi, yogurt and besan, no pakora",
+    "category": "North Indian",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:01116",
+        "grams": 300
+      },
+      {
+        "reference": "USDA:16157",
+        "grams": 50
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 50
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:02043",
+        "grams": 1
+      },
+      {
+        "reference": "WATER",
+        "grams": 300
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Paneer bhurji",
+    "category": "North Indian",
+    "yield_g": 450,
+    "ingredients": [
+      {
+        "reference": "IFCT:L003",
+        "grams": 250
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 40
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Palak paneer",
+    "category": "North Indian",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "IFCT:L003",
+        "grams": 200
+      },
+      {
+        "reference": "USDA:11457",
+        "grams": 300
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:01050",
+        "grams": 30
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Matar paneer",
+    "category": "North Indian",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "IFCT:L003",
+        "grams": 200
+      },
+      {
+        "reference": "USDA:11305",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 120
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 150
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Aloo gobhi",
+    "category": "North Indian",
+    "yield_g": 600,
+    "ingredients": [
+      {
+        "reference": "USDA:11367",
+        "grams": 300
+      },
+      {
+        "reference": "USDA:11135",
+        "grams": 250
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 50
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Bhindi masala",
+    "category": "North Indian",
+    "yield_g": 450,
+    "ingredients": [
+      {
+        "reference": "USDA:11278",
+        "grams": 400
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 30
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Baingan bharta",
+    "category": "North Indian",
+    "yield_g": 500,
+    "ingredients": [
+      {
+        "reference": "USDA:11209",
+        "grams": 450
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 30
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Dal tadka, lentil base",
+    "category": "North Indian",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:16070",
+        "grams": 450
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:11215",
+        "grams": 5
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Moong dal tadka, whole-moong base",
+    "category": "North Indian",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:16081",
+        "grams": 450
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:01003",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Chana masala, dry sundal style",
+    "category": "Protein",
+    "yield_g": 450,
+    "ingredients": [
+      {
+        "reference": "USDA:16057",
+        "grams": 400
+      },
+      {
+        "reference": "USDA:12104",
+        "grams": 25
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 10
+      },
+      {
+        "reference": "USDA:09152",
+        "grams": 15
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Tofu bhurji",
+    "category": "Protein",
+    "yield_g": 450,
+    "ingredients": [
+      {
+        "reference": "USDA:16426",
+        "grams": 250
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 40
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Soya chunks curry, Hilife dry base",
+    "category": "Protein",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "HILIFE:soy",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 450
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Chicken curry, boneless cooked meat",
+    "category": "Protein",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:05064",
+        "grams": 350
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:01116",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Egg curry, boiled eggs",
+    "category": "Protein",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:01129",
+        "grams": 300
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 150
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Fish curry, tilapia boneless base",
+    "category": "Protein",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:15262",
+        "grams": 300
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:12117",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 10
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Omelette, onion and tomato",
+    "category": "Protein",
+    "yield_g": 150,
+    "ingredients": [
+      {
+        "reference": "USDA:01123",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 5
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 two-egg omelette (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Jeera rice",
+    "category": "Rice and grains",
+    "yield_g": 500,
+    "ingredients": [
+      {
+        "reference": "USDA:20045",
+        "grams": 470
+      },
+      {
+        "reference": "USDA:01003",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:02014",
+        "grams": 5
+      },
+      {
+        "reference": "WATER",
+        "grams": 10
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 cup, weighed (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Vegetable pulao",
+    "category": "Rice and grains",
+    "yield_g": 700,
+    "ingredients": [
+      {
+        "reference": "USDA:20045",
+        "grams": 450
+      },
+      {
+        "reference": "USDA:11305",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:11124",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 30
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        200
+      ]
+    ]
+  },
+  {
+    "name": "Vegetable biryani",
+    "category": "Rice and grains",
+    "yield_g": 750,
+    "ingredients": [
+      {
+        "reference": "USDA:20045",
+        "grams": 450
+      },
+      {
+        "reference": "USDA:11367",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11305",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:11124",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:01116",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 25
+      },
+      {
+        "reference": "WATER",
+        "grams": 50
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        250
+      ]
+    ]
+  },
+  {
+    "name": "Chicken biryani, boneless",
+    "category": "Rice and grains",
+    "yield_g": 800,
+    "ingredients": [
+      {
+        "reference": "USDA:20045",
+        "grams": 450
+      },
+      {
+        "reference": "USDA:05064",
+        "grams": 200
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:01116",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 25
+      },
+      {
+        "reference": "WATER",
+        "grams": 50
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        250
+      ]
+    ]
+  },
+  {
+    "name": "Lemon rice",
+    "category": "Rice and grains",
+    "yield_g": 550,
+    "ingredients": [
+      {
+        "reference": "USDA:20045",
+        "grams": 450
+      },
+      {
+        "reference": "USDA:16390",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:09152",
+        "grams": 30
+      },
+      {
+        "reference": "WATER",
+        "grams": 25
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 cup, weighed (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Curd rice",
+    "category": "Rice and grains",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:20045",
+        "grams": 350
+      },
+      {
+        "reference": "USDA:01116",
+        "grams": 250
+      },
+      {
+        "reference": "USDA:01077",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 10
+      },
+      {
+        "reference": "WATER",
+        "grams": 10
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        200
+      ]
+    ]
+  },
+  {
+    "name": "Tamarind rice / puliyogare",
+    "category": "Rice and grains",
+    "yield_g": 600,
+    "ingredients": [
+      {
+        "reference": "USDA:20045",
+        "grams": 450
+      },
+      {
+        "reference": "USDA:09322",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:16390",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 70
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 cup, weighed (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Khichdi, rice and whole moong",
+    "category": "Rice and grains",
+    "yield_g": 800,
+    "ingredients": [
+      {
+        "reference": "USDA:20044",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:16080",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:11124",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:01003",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 750
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        200
+      ]
+    ]
+  },
+  {
+    "name": "Kanda poha, with peanuts",
+    "category": "Rice and grains",
+    "yield_g": 600,
+    "ingredients": [
+      {
+        "reference": "IFCT:A011",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:16390",
+        "grams": 20
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:09152",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 400
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Sabudana khichdi",
+    "category": "Rice and grains",
+    "yield_g": 600,
+    "ingredients": [
+      {
+        "reference": "USDA:20068",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:11367",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:16390",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 400
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Oat porridge, milk, unsweetened",
+    "category": "Rice and grains",
+    "yield_g": 500,
+    "ingredients": [
+      {
+        "reference": "USDA:20038",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:01077",
+        "grams": 300
+      },
+      {
+        "reference": "WATER",
+        "grams": 170
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        200
+      ]
+    ]
+  },
+  {
+    "name": "Ragi roti, plain, no oil",
+    "category": "Rice and grains",
+    "yield_g": 250,
+    "ingredients": [
+      {
+        "reference": "IFCT:A010",
+        "grams": 150
+      },
+      {
+        "reference": "WATER",
+        "grams": 160
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 roti (estimated)",
+        60
+      ]
+    ]
+  },
+  {
+    "name": "Bajra roti, plain, no oil",
+    "category": "Rice and grains",
+    "yield_g": 250,
+    "ingredients": [
+      {
+        "reference": "IFCT:A003",
+        "grams": 150
+      },
+      {
+        "reference": "WATER",
+        "grams": 160
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 roti (estimated)",
+        60
+      ]
+    ]
+  },
+  {
+    "name": "Jowar roti, plain, no oil",
+    "category": "Rice and grains",
+    "yield_g": 250,
+    "ingredients": [
+      {
+        "reference": "IFCT:A005",
+        "grams": 150
+      },
+      {
+        "reference": "WATER",
+        "grams": 160
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 roti (estimated)",
+        60
+      ]
+    ]
+  },
+  {
+    "name": "Samosa, potato and peas",
+    "category": "Snacks",
+    "yield_g": 450,
+    "ingredients": [
+      {
+        "reference": "USDA:20481",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:11367",
+        "grams": 200
+      },
+      {
+        "reference": "USDA:11305",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 55
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 samosa (estimated)",
+        90
+      ]
+    ]
+  },
+  {
+    "name": "Onion pakora / bhaji",
+    "category": "Snacks",
+    "yield_g": 400,
+    "ingredients": [
+      {
+        "reference": "USDA:16157",
+        "grams": 120
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 200
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 45
+      },
+      {
+        "reference": "WATER",
+        "grams": 150
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 portion (estimated)",
+        80
+      ]
+    ]
+  },
+  {
+    "name": "Dhokla, besan, steamed",
+    "category": "Snacks",
+    "yield_g": 500,
+    "ingredients": [
+      {
+        "reference": "USDA:16157",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:01116",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:09152",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 300
+      }
+    ],
+    "method": "Soak/grind where applicable; steam. Final edible cooked yield is an estimate; fermentation changes are not modelled.",
+    "servings": [
+      [
+        "1 piece (estimated)",
+        50
+      ]
+    ]
+  },
+  {
+    "name": "Bhel puri, no sev",
+    "category": "Snacks",
+    "yield_g": 450,
+    "ingredients": [
+      {
+        "reference": "IFCT:A012",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:11367",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:16390",
+        "grams": 20
+      },
+      {
+        "reference": "USDA:09322",
+        "grams": 20
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 10
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Pani puri, six puris with filling and water",
+    "category": "Snacks",
+    "yield_g": 360,
+    "ingredients": [
+      {
+        "reference": "USDA:20466",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:20481",
+        "grams": 20
+      },
+      {
+        "reference": "USDA:11367",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:16057",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:09322",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:02065",
+        "grams": 5
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 160
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "6 filled puris plus pani (estimated)",
+        180
+      ]
+    ]
+  },
+  {
+    "name": "Pav bhaji, including bread and butter",
+    "category": "Snacks",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:18069",
+        "grams": 120
+      },
+      {
+        "reference": "USDA:11367",
+        "grams": 200
+      },
+      {
+        "reference": "USDA:11135",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11305",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:01001",
+        "grams": 25
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 10
+      },
+      {
+        "reference": "WATER",
+        "grams": 70
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 plate (estimated)",
+        325
+      ]
+    ]
+  },
+  {
+    "name": "Vegetable sandwich, no mayonnaise",
+    "category": "Snacks",
+    "yield_g": 300,
+    "ingredients": [
+      {
+        "reference": "USDA:18069",
+        "grams": 120
+      },
+      {
+        "reference": "USDA:11367",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:11205",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:01001",
+        "grams": 10
+      },
+      {
+        "reference": "USDA:02065",
+        "grams": 5
+      },
+      {
+        "reference": "WATER",
+        "grams": 5
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 sandwich (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Cheese sandwich, buttered",
+    "category": "Snacks",
+    "yield_g": 300,
+    "ingredients": [
+      {
+        "reference": "USDA:18069",
+        "grams": 140
+      },
+      {
+        "reference": "USDA:01001",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:11205",
+        "grams": 25
+      },
+      {
+        "reference": "USDA:01009",
+        "grams": 60
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 sandwich (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Besan chilla",
+    "category": "Snacks",
+    "yield_g": 350,
+    "ingredients": [
+      {
+        "reference": "USDA:16157",
+        "grams": 120
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 180
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 chilla (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Moong sprouts chaat, raw sprouts",
+    "category": "Snacks",
+    "yield_g": 450,
+    "ingredients": [
+      {
+        "reference": "USDA:11282",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:11529",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:11205",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:09152",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:11043",
+        "grams": 200
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Aloo tikki, shallow fried",
+    "category": "Snacks",
+    "yield_g": 350,
+    "ingredients": [
+      {
+        "reference": "USDA:11367",
+        "grams": 300
+      },
+      {
+        "reference": "USDA:18069",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 25
+      },
+      {
+        "reference": "WATER",
+        "grams": 20
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 tikki (estimated)",
+        70
+      ]
+    ]
+  },
+  {
+    "name": "Dahi vada",
+    "category": "Snacks",
+    "yield_g": 700,
+    "ingredients": [
+      {
+        "reference": "IFCT:B003",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:11282",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:04044",
+        "grams": 30
+      },
+      {
+        "reference": "USDA:01116",
+        "grams": 350
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:09322",
+        "grams": 20
+      },
+      {
+        "reference": "WATER",
+        "grams": 300
+      }
+    ],
+    "method": "Cook with the listed retained oil; frying absorption and final cooked weight are estimated, not measured.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        175
+      ]
+    ]
+  },
+  {
+    "name": "Lassi, sweet",
+    "category": "Dairy",
+    "yield_g": 600,
+    "ingredients": [
+      {
+        "reference": "USDA:01116",
+        "grams": 350
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 50
+      },
+      {
+        "reference": "WATER",
+        "grams": 200
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 glass, weighed (estimated)",
+        250
+      ]
+    ]
+  },
+  {
+    "name": "Lassi, plain, unsweetened",
+    "category": "Dairy",
+    "yield_g": 600,
+    "ingredients": [
+      {
+        "reference": "USDA:01116",
+        "grams": 350
+      },
+      {
+        "reference": "WATER",
+        "grams": 250
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 glass, weighed (estimated)",
+        250
+      ]
+    ]
+  },
+  {
+    "name": "Chaas / buttermilk, diluted curd",
+    "category": "Dairy",
+    "yield_g": 600,
+    "ingredients": [
+      {
+        "reference": "USDA:01116",
+        "grams": 200
+      },
+      {
+        "reference": "USDA:02014",
+        "grams": 1
+      },
+      {
+        "reference": "WATER",
+        "grams": 399
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 glass, weighed (estimated)",
+        250
+      ]
+    ]
+  },
+  {
+    "name": "Cucumber raita",
+    "category": "Dairy",
+    "yield_g": 450,
+    "ingredients": [
+      {
+        "reference": "USDA:01116",
+        "grams": 300
+      },
+      {
+        "reference": "USDA:11205",
+        "grams": 150
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Milk tea / chai, sweetened",
+    "category": "Beverages and sweets",
+    "yield_g": 500,
+    "ingredients": [
+      {
+        "reference": "USDA:14355",
+        "grams": 300
+      },
+      {
+        "reference": "USDA:01077",
+        "grams": 180
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 20
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 cup, weighed (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Milk coffee, sweetened",
+    "category": "Beverages and sweets",
+    "yield_g": 500,
+    "ingredients": [
+      {
+        "reference": "USDA:14209",
+        "grams": 250
+      },
+      {
+        "reference": "USDA:01077",
+        "grams": 230
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 20
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 cup, weighed (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Banana milkshake, no added sugar",
+    "category": "Beverages and sweets",
+    "yield_g": 500,
+    "ingredients": [
+      {
+        "reference": "USDA:09040",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:01077",
+        "grams": 350
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 glass, weighed (estimated)",
+        250
+      ]
+    ]
+  },
+  {
+    "name": "Mango lassi, sweetened",
+    "category": "Beverages and sweets",
+    "yield_g": 600,
+    "ingredients": [
+      {
+        "reference": "USDA:09176",
+        "grams": 200
+      },
+      {
+        "reference": "USDA:01116",
+        "grams": 300
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 30
+      },
+      {
+        "reference": "WATER",
+        "grams": 70
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 glass, weighed (estimated)",
+        250
+      ]
+    ]
+  },
+  {
+    "name": "Banana and Greek yogurt protein smoothie",
+    "category": "Beverages and sweets",
+    "yield_g": 500,
+    "ingredients": [
+      {
+        "reference": "USDA:09040",
+        "grams": 120
+      },
+      {
+        "reference": "USDA:01085",
+        "grams": 250
+      },
+      {
+        "reference": "USDA:01256",
+        "grams": 130
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 glass, weighed (estimated)",
+        250
+      ]
+    ]
+  },
+  {
+    "name": "Protein shake, skim milk and soy isolate",
+    "category": "Beverages and sweets",
+    "yield_g": 300,
+    "ingredients": [
+      {
+        "reference": "USDA:01085",
+        "grams": 270
+      },
+      {
+        "reference": "USDA:16122",
+        "grams": 30
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 glass, weighed (estimated)",
+        300
+      ]
+    ]
+  },
+  {
+    "name": "Kheer, rice and milk",
+    "category": "Beverages and sweets",
+    "yield_g": 700,
+    "ingredients": [
+      {
+        "reference": "USDA:20044",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:01077",
+        "grams": 650
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 70
+      },
+      {
+        "reference": "USDA:09298",
+        "grams": 15
+      },
+      {
+        "reference": "USDA:12087",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 100
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        150
+      ]
+    ]
+  },
+  {
+    "name": "Sooji halwa / sheera",
+    "category": "Beverages and sweets",
+    "yield_g": 500,
+    "ingredients": [
+      {
+        "reference": "USDA:20466",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:01003",
+        "grams": 60
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:12087",
+        "grams": 15
+      },
+      {
+        "reference": "WATER",
+        "grams": 400
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Gajar halwa",
+    "category": "Beverages and sweets",
+    "yield_g": 650,
+    "ingredients": [
+      {
+        "reference": "USDA:11124",
+        "grams": 500
+      },
+      {
+        "reference": "USDA:01077",
+        "grams": 300
+      },
+      {
+        "reference": "USDA:01003",
+        "grams": 40
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:12087",
+        "grams": 15
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        100
+      ]
+    ]
+  },
+  {
+    "name": "Besan laddoo",
+    "category": "Beverages and sweets",
+    "yield_g": 350,
+    "ingredients": [
+      {
+        "reference": "USDA:16157",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:01003",
+        "grams": 80
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:12087",
+        "grams": 20
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 laddoo (estimated)",
+        35
+      ]
+    ]
+  },
+  {
+    "name": "Coconut laddoo",
+    "category": "Beverages and sweets",
+    "yield_g": 400,
+    "ingredients": [
+      {
+        "reference": "USDA:12104",
+        "grams": 200
+      },
+      {
+        "reference": "USDA:01077",
+        "grams": 100
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 120
+      },
+      {
+        "reference": "USDA:01003",
+        "grams": 10
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 laddoo (estimated)",
+        35
+      ]
+    ]
+  },
+  {
+    "name": "Til laddoo, sesame and sugar",
+    "category": "Beverages and sweets",
+    "yield_g": 300,
+    "ingredients": [
+      {
+        "reference": "USDA:12023",
+        "grams": 150
+      },
+      {
+        "reference": "USDA:19335",
+        "grams": 130
+      },
+      {
+        "reference": "USDA:01003",
+        "grams": 10
+      },
+      {
+        "reference": "WATER",
+        "grams": 30
+      }
+    ],
+    "method": "Cook/simmer; listed cooked ingredients are weighed after cooking. Final edible yield is estimated.",
+    "servings": [
+      [
+        "1 laddoo (estimated)",
+        30
+      ]
+    ]
+  },
+  {
+    "name": "Shrikhand, plain, Greek yogurt base",
+    "category": "Beverages and sweets",
+    "yield_g": 500,
+    "ingredients": [
+      {
+        "reference": "USDA:19335",
+        "grams": 130
+      },
+      {
+        "reference": "USDA:12087",
+        "grams": 20
+      },
+      {
+        "reference": "USDA:01256",
+        "grams": 350
+      }
+    ],
+    "method": "Blend/mix. Final edible yield is estimated; no unlisted sugar or oil.",
+    "servings": [
+      [
+        "1 bowl (estimated)",
+        100
+      ]
+    ]
+  }
+]
