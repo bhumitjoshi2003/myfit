@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import type { FormEvent, ReactNode } from "react";
 import { Leaf, ArrowRight, ArrowLeft, Check, LogOut } from "lucide-react";
-import { api, keys, round } from "./api";
+import { api, keys, round, today } from "./api";
 import type {
   User,
   OnboardingProfile,
@@ -318,7 +318,7 @@ export default function Onboarding({
                     <input
                       type="date"
                       value={p.dob}
-                      max={new Date().toISOString().slice(0, 10)}
+                      max={today(p.timezone || user.timezone)}
                       onChange={(e) => set("dob", e.target.value)}
                     />
                   </Field>

@@ -389,6 +389,15 @@ func validDay(s string) bool {
 	t, e := time.Parse("2006-01-02", s)
 	return e == nil && t.Year() >= 1900 && t.Year() <= 2200
 }
+
+// localDay is the calendar day (YYYY-MM-DD) at instant now in the IANA zone tz.
+func localDay(tz string, now time.Time) (string, error) {
+	loc, e := time.LoadLocation(tz)
+	if e != nil {
+		return "", e
+	}
+	return now.In(loc).Format("2006-01-02"), nil
+}
 func (s *Server) day(r *http.Request) string {
 	d := r.URL.Query().Get("date")
 	if d != "" {
@@ -398,11 +407,11 @@ func (s *Server) day(r *http.Request) string {
 	if e != nil {
 		return ""
 	}
-	loc, e := time.LoadLocation(u.Timezone)
+	d, e = localDay(u.Timezone, time.Now())
 	if e != nil {
 		return ""
 	}
-	return time.Now().In(loc).Format("2006-01-02")
+	return d
 }
 func (s *Server) diary(w http.ResponseWriter, r *http.Request) {
 	d := s.day(r)

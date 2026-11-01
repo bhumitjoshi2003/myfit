@@ -85,13 +85,7 @@ export const emptyNutrition: Nutrition = {
 export const keys = ["calories", "protein", "carbs", "fat", "fibre"] as const;
 export const round = (n: number, d = 1) =>
   n.toLocaleString(undefined, { maximumFractionDigits: d });
-export const today = (tz: string) =>
-  new Intl.DateTimeFormat("en-CA", {
-    timeZone: tz,
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  }).format(new Date());
+export { today } from "./dates";
 
 export type OnboardingProfile = {
   dob: string;

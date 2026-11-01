@@ -1,5 +1,5 @@
 import Onboarding from "./Onboarding";
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect, useCallback, useRef } from "react";
 import { createRoot } from "react-dom/client";
 import {
   LayoutDashboard,
@@ -26,6 +26,7 @@ import {
   Scale,
 } from "lucide-react";
 import { api, setCSRF, emptyNutrition, keys, round, today } from "./api";
+import { rollover, shiftDay } from "./dates";
 import type { User, Food, Entry, Weight, Diary } from "./api";
 import "./style.css";
 
@@ -291,7 +292,8 @@ function App() {
     [editing, setEditing] = useState<Entry | null>(null),
     [weightModal, setWeightModal] = useState(false),
     [toast, setToast] = useState(""),
-    [mobile, setMobile] = useState(false);
+    [mobile, setMobile] = useState(false),
+    [tzDismissed, setTzDismissed] = useState(false);
   useEffect(() => {
     api<{ user: User; csrf: string }>("/me")
       .then((r) => {
@@ -353,6 +355,29 @@ function App() {
       return () => clearTimeout(t);
     }
   }, [toast]);
+  // Keep "today" correct across midnight (and after the device wakes up): a
+  // diary that was showing today moves to the new day, a manually chosen
+  // date is left alone.
+  const lastToday = useRef("");
+  useEffect(() => {
+    if (!user) return;
+    lastToday.current = today(user.timezone);
+    const tick = () => {
+      const now = today(user.timezone),
+        prev = lastToday.current;
+      if (now === prev) return;
+      lastToday.current = now;
+      setDate((d) => rollover(d, prev, now));
+    };
+    const id = setInterval(tick, 30000);
+    document.addEventListener("visibilitychange", tick);
+    window.addEventListener("focus", tick);
+    return () => {
+      clearInterval(id);
+      document.removeEventListener("visibilitychange", tick);
+      window.removeEventListener("focus", tick);
+    };
+  }, [user?.timezone, !!user]);
   function signedIn(u: User) {
     setEditOnboarding(false);
     setMobile(false);
@@ -362,9 +387,23 @@ function App() {
     setPage("dashboard");
   }
   function changeDate(delta: number) {
-    const d = new Date(date + "T12:00:00Z");
-    d.setUTCDate(d.getUTCDate() + delta);
-    setDate(d.toISOString().slice(0, 10));
+    setDate(shiftDay(date, delta));
+  }
+  async function useDeviceZone(zone: string) {
+    if (!user) return;
+    try {
+      const u = await api<User>("/profile", "PUT", {
+        name: user.name,
+        timezone: zone,
+        version: user.onboarding_version,
+        goals: user.goals,
+      });
+      setUser(u);
+      setDate(today(u.timezone));
+      setToast("Time zone updated");
+    } catch (e) {
+      setError((e as Error).message);
+    }
   }
   async function remove(l: Entry) {
     try {
@@ -417,7 +456,8 @@ function App() {
         }}
       />
     );
-  const isToday = date === today(user.timezone),
+  const deviceZone = Intl.DateTimeFormat().resolvedOptions().timeZone,
+    isToday = date === today(user.timezone),
     total = diary.totals,
     goal = user.goals,
     latest = weights.at(-1),
@@ -555,6 +595,26 @@ function App() {
             ) : null}
           </div>
           <ErrorBox error={error} />
+          {!tzDismissed &&
+            deviceZone !== user.timezone &&
+            ["dashboard", "diary"].includes(page) && (
+              <div className="notice" role="status">
+                Your account time zone is {user.timezone}, but this device is in{" "}
+                {deviceZone}. Your diary days follow the account time zone.{" "}
+                <button
+                  className="text-btn"
+                  onClick={() => useDeviceZone(deviceZone)}
+                >
+                  Use {deviceZone}
+                </button>{" "}
+                <button
+                  className="text-btn"
+                  onClick={() => setTzDismissed(true)}
+                >
+                  Keep {user.timezone}
+                </button>
+              </div>
+            )}
           {["dashboard", "diary"].includes(page) && (
             <div className="date-row">
               <div className="date-picker">
